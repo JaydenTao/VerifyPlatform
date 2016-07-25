@@ -1,0 +1,16 @@
+.openerp .oe_list_content > tbody > tr > td.oe_list_field_uploadfile{
+        white-space: normal;
+        width: 230px;
+}
+
+.oe_list_field_uploadfile >table > tbody > tr >td{
+        vertical-align: middle;
+}
+
+.oe_list_field_uploadfile >table > tbody > tr >td.oe_form_binary{
+        padding: 0px;
+}
+
+.openerp .oe_list_content  td{
+    vertical-align:middle;
+}

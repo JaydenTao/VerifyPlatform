@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<openerp>
+    <data>
+
+        <record model="ir.ui.view" id="station_solution_tree">
+            <field name="name">station.solution.tree</field>
+            <field name="model">station.baseinfo</field>
+            <field name="type">tree</field>
+            <!--<field name="limit">20</field>-->
+            <field name="arch" type="xml">
+                <tree string="stations">
+                    <button name="action_to_open" type="object" context="{'xml_id':'action_station_solution_form'}"
+                            icon="STOCK_GO_UP"
+                            string="图纸和物料上传"/>
+                    <button name="action_to_open_analysis" type="object"
+                            context="{'xml_id':'action_station_solution_analysis_form'}" icon="STOCK_PREFERENCES"/>
+                    <!--<button name="action_to_open" type="object" context="{'xml_id':'action_station_solution_form'}"-->
+                    <!--string="图纸和物料上传" class="oe_highlight"/>-->
+
+                    <field name="name"/>
+                    <field name="demand2G"/>
+                    <field name="manufactor2G"/>
+                    <field name="demand3G"/>
+                </tree>
+            </field>
+        </record>
+
+        <record model="ir.ui.view" id="station_solution_file_tree">
+            <!--<field name="sequence" eval="1"/>-->
+            <field name="name">station_solution_file_tree</field>
+            <field name="model">station.solution.file</field>
+            <field name="arch" type="xml">
+                <tree string="Interview Appraisal" editable="top" auto_reload="false">
+                    <field name="type" string="文件类型"/>
+                    <field name="orgin_name" widget="uploadfile" filename="name" string="文件上传" action="act_upload"/>
+                    <field name="name" string="文件名"/>
+                    <button type="object" name="act_delfile" string="删除" icon="STOCK_STOP"/>
+                    <button type="object" name="act_download" string="下载" icon="STOCK_GO_DOWN"/>
+                    <field name="comments" string="不合格原因"/>
+                    <field name="uploaded" string="是否合格"/>
+                    <field name="user_id" string="创建人"/>
+                </tree>
+            </field>
+        </record>
+
+        <record model="ir.ui.view" id="station_solution_form">
+            <field name="name">station.solution.form</field>
+            <field name="model">station.baseinfo</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+                <form string="站点信息维护" create="false" edit="false" delete="false">
+                    <group col="6" colspan="4">
+                        <field name="name" readonly="1"/>
+                    </group>
+                    <!--<notebook>-->
+                    <!--<group string="图纸上传">-->
+                    <!--<field name="file_ids" nolabel="1" context="{'default_station_id': active_id}" widget="one2many_binary">-->
+                    <field name="file_ids" nolabel="1" readonly="1" domain="[('type','!=','6')]"/>
+
+                    <!--</group>-->
+                    <!--</notebook>-->
+                    <group string="物流上传">
+                    </group>
+                    <button name="act_export" string="导出" type="object"/>
+                    <widget type="direct_import" string="导入" model="station.material" save_type="file"/>
+                    <!--<button name="act_import" string="导入" type="object" widget="direct_import"/>-->
+                    <button name="act_template" string="导出模板" type="object"/>
+                    <field name="material_file" widget="jsontable" auto_reload="true" columns='[
+                        {"data": "序号","title":"序号"},
+                        {"data": "名称","title":"名称"},
+                        {"data": "规格程式","title":"规格程式"},
+                        {"data": "单位","title":"单位"},
+                        {"data": "数量","title":"数量"},
+                        {"data": "单价(元)","title":"单价(元)"},
+                        {"data": "合计(元)","title":"合计(元)"},
+                        {"data": "备注","title":"备注"}
+                    ]'/>
+
+                </form>
+            </field>
+        </record>
+
+
+        <record model="ir.ui.view" id="view_unit_count_form">
+            <field name="name">view.unit.count.form</field>
+            <field name="model">station.baseinfo</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+                <form string="设计院提交预算" create="false" edit="false" delete="false">
+                    <field name="material_file" widget="jsontable" auto_reload="true" columns='[
+                        {"data": "序号","title":"序号"},
+                        {"data": "名称","title":"名称"},
+                        {"data": "规格程式","title":"规格程式"},
+                        {"data": "单位","title":"单位"},
+                        {"data": "数量","title":"数量"},
+                        {"data": "单价(元)","title":"单价(元)"},
+                        {"data": "合计(元)","title":"合计(元)"},
+                        {"data": "备注","title":"备注"}
+                    ]'/>
+                </form>
+            </field>
+        </record>
+
+        <record model="ir.actions.act_window" id="browse_unit_count_act">
+            <field name="name">browse unit count</field>
+            <field name="res_model">station.baseinfo</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">form</field>
+            <field name="target">new</field>
+            <field name="view_id" ref="view_unit_count_form"/>
+            <!--<field name="domain">[('parent_id','=',active_id)]</field>-->
+        	<!--<field name="context">{'default_parent_id': active_id}</field>-->
+        </record>
+
+
+
+        <record model="ir.ui.view" id="station_solution_analysis_form">
+            <field name="name">station.solution.analysis.form</field>
+            <field name="model">station.baseinfo</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+                <form string="智能分析" create="false" edit="false" delete="false">
+                    <header>
+                        <widget type="direct_import" string="智能分析" model="station.audit" save_type="file"/>
+                    <!--<button name="act_analyze" type="direct_import" string="智能分析" model="station.audit" save_type="file" context="{'send_rfq':True}" class="oe_highlight"/>-->
+                    <button name="wkf_send_rfq" string="提交送审" type="object" context="{'send_rfq':True}" class="oe_highlight"/>
+                    <field name="state" widget="statusbar" statusbar_visible="draft,sent,approved" statusbar_colors='{"except_picking":"red","except_invoice":"red","confirmed":"blue"}' readonly="1"/>
+                    </header>
+                    <!--<group col="6" colspan="4">-->
+                        <!--<field name="name" readonly="1"/>-->
+                    <!--</group>-->
+                    <!--<field name="budget_id" nolabel="1" readonly="1"/>-->
+                    <div>
+                        <table class="oe_list_content" options="{'reload_on_button': true}">
+                            <thead class="tableFloatingHeaderOriginal">
+                                <tr class="oe_list_header_columns">
+                                    <th class="oe_list_header_many2one oe_sortable">
+                                        <div>
+                                            设计院提交预算
+                                        </div>
+                                    </th>
+                                    <th class="oe_list_header_many2one oe_sortable">
+                                        <div>
+                                            智能分析预算
+                                        </div>
+                                    </th>
+
+
+                                    <th class="oe_list_header_many2one oe_sortable">
+                                        <div>
+                                            差额
+                                        </div>
+                                    </th>
+                                    <th class="oe_list_header_many2one oe_sortable">
+                                        <div>
+                                            设计院提交预算
+                                        </div>
+                                    </th>
+                                    <th class="oe_list_header_many2one oe_sortable">
+                                        <div>
+                                            智能分析预算
+                                        </div>
+                                    </th>
+                                    <th class="oe_list_header_many2one oe_sortable">
+                                        <div>
+                                            对比分析
+                                        </div>
+                                    </th><th class="oe_list_header_many2one oe_sortable">
+                                        <div>
+                                            备注
+                                        </div>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tr>
+                                <td><field name="unit_count" nolabel="1" readonly="1"/></td>
+                                <td><field name="ai_count" nolabel="1" readonly="1"/></td>
+                                <td><field name="difference" nolabel="1" readonly="1"/></td>
+                                <!--<td><field name="unit" nolabel="1" readonly="1"/></td>-->
+                                <td><button name="action_to_open" class="oe_link" type="object" context="{'xml_id':'browse_unit_count_act'}"
+                            string="设计院提交预算"/></td>
+                                <td><field name="ai" nolabel="1" readonly="1"/></td>
+                                <td><field name="diff" nolabel="1" readonly="1"/></td>
+                                <td><field name="remark" nolabel="1" readonly="1"/></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <label string='CAD图纸审核点：'/>
+                    <button name="act_export" string="下载图纸" type="object" class="oe_right"/>
+                    <field name="involved_ids">
+                        <tree auto_reload="true">
+                                <field name="Number"/>
+                                <field name="Catalog"/>
+                                <field name="Standard"/>
+                                <field name="Real"/>
+                                <field name="Result"/>
+                                <field name="remark"/>
+                        </tree>
+                    </field>
+                    <label string='不涉及审核点：'/>
+                    <field name="notinvolved_file" widget="jsontable" auto_reload="false" columns='[
+                        {"data": "Number","title":"序号"},
+                        {"data": "Catalog","title":"分类"},
+                        {"data": "Item","title":"审核点"},
+                        {"data": "Standard","title":"标准值"},
+                        {"data": "Result","title":"是否合格"}
+                    ]' />
+                    <!--<label string="建筑物材质列表" />-->
+                    <!--<field name="material_file" widget="jsontable" columns='[-->
+                        <!--{"data": "序号","title":"序号"},-->
+                        <!--{"data": "名称","title":"名称"},-->
+                        <!--{"data": "规格程式","title":"规格程式"},-->
+                        <!--{"data": "单位","title":"单位"},-->
+                        <!--{"data": "数量","title":"数量"},-->
+                        <!--{"data": "单价(元)","title":"单价(元)"},-->
+                        <!--{"data": "合计(元)","title":"合计(元)"},-->
+                        <!--{"data": "备注","title":"备注"}-->
+                    <!--]'/>-->
+
+                </form>
+            </field>
+        </record>
+
+
+
+        <!--供python调用-->
+        <record model="ir.actions.act_window" id="action_station_solution_form">
+            <field name="name">方案送审</field>
+            <field name="type">ir.actions.act_window</field>
+            <field name="res_model">station.baseinfo</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">form</field>
+            <field name="view_id" ref="station_solution_form"/>
+
+            <!--<field name="context">{'default_station_id': active_id}</field>-->
+            <!--<field name="domain">[('station_id','=',active_id)]</field>-->
+            <field name="target">current</field>
+        </record>
+
+        <record model="ir.actions.act_window" id="action_station_solution_analysis_form">
+            <field name="name">智能分析</field>
+            <field name="type">ir.actions.act_window</field>
+            <field name="res_model">station.baseinfo</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">form</field>
+            <field name="view_id" ref="station_solution_analysis_form"/>
+            <!--<field name="context">{'default_station_id': active_id}</field>-->
+            <!--<field name="domain">[('station_id','=',active_id)]</field>-->
+            <!--<field name="target">new</field>-->
+        </record>
+
+        <record model="ir.actions.act_window" id="station_solution_act">
+            <field name="name">方案送审</field>
+            <field name="res_model">station.baseinfo</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">tree</field>
+            <field name="limit">20</field>
+            <field name="view_id" ref="station_solution_tree"/>
+            <field name="flags">{'search_view:false'}</field>
+        </record>
+
+
+        <menuitem name="方案审核" parent="station.menu_root" id="station_solution_manage" sequence="2"/>
+        <menuitem action="station_solution_act" parent="station_solution_manage" id="station_solution_menu"/>
+    </data>
+</openerp>

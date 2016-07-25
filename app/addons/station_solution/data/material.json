@@ -1,0 +1,8036 @@
+{
+  "rowcount": 1040,
+  "total": 1040,
+  "errorMsg": "",
+  "success": true,
+  "rows": [
+    {
+      "Sequence": 11,
+      "MaterialName": "二功分",
+      "Company": "个",
+      "Number": 14,
+      "Price": 21.7500,
+      "Total": 304.5000
+    },
+    {
+      "Sequence": 24,
+      "MaterialName": "TIAO跳线",
+      "Company": "条",
+      "Number": 8,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "高品质GSM&DCS/TD （A&F&E)双频合路器（二入一出）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "8dB高品质耦合器",
+      "Company": "个",
+      "Number": 6,
+      "Price": 32.2800,
+      "Total": 193.6800
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "TIAO跳线",
+      "Company": "条",
+      "Number": 56,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "三功分",
+      "Company": "个",
+      "Number": 12,
+      "Price": 22.7800,
+      "Total": 273.3600
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "板状定向天线",
+      "Company": "个",
+      "Number": 7,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 23,
+      "MaterialName": "7/8馈线",
+      "Company": "米",
+      "Number": 265,
+      "Price": 25.6400,
+      "Total": 6794.6000
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 35,
+      "Price": 22.7100,
+      "Total": 794.8500
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "光缆接头",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "12dB耦合器",
+      "Company": "个",
+      "Number": 9,
+      "Price": 23.0200,
+      "Total": 207.1800
+    },
+    {
+      "Sequence": 22,
+      "MaterialName": "跳线馈线",
+      "Company": "米",
+      "Number": 0,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 26,
+      "MaterialName": "7/8馈线",
+      "Company": "米",
+      "Number": 715,
+      "Price": 25.6400,
+      "Total": 18332.6000
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 16,
+      "Price": 22.8400,
+      "Total": 365.4400
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "高品质GSM/DCS/TD （A&F&E)双频合路器（三入一出）",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "1/2接头",
+      "Company": "个",
+      "Number": 92,
+      "Price": 6.9400,
+      "Total": 638.4800
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "BBU",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "定向单极化对数周期天线宽频",
+      "Company": "个",
+      "Number": 1,
+      "Price": 58.4300,
+      "Total": 58.4300
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.8300,
+      "Total": 22.8300
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "15dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 23.1600,
+      "Total": 46.3200
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "15dB耦合器",
+      "Company": "个",
+      "Number": 9,
+      "Price": 23.1600,
+      "Total": 208.4400
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "1/2接头",
+      "Company": "个",
+      "Number": 244,
+      "Price": 6.9400,
+      "Total": 1693.3600
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "7/8馈线",
+      "Company": "米",
+      "Number": 450,
+      "Price": 25.6400,
+      "Total": 11538.0000
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "3dB电桥(100W)",
+      "Company": "个",
+      "Number": 1,
+      "Price": 53.9600,
+      "Total": 53.9600
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "1/2接头",
+      "Company": "个",
+      "Number": 22,
+      "Price": 6.9400,
+      "Total": 152.6800
+    },
+    {
+      "Sequence": 29,
+      "MaterialName": "跳线馈线",
+      "Company": "米",
+      "Number": 0,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "1/2馈线",
+      "Company": "米",
+      "Number": 1170,
+      "Price": 11.7400,
+      "Total": 13735.8000
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "全向吸顶天线",
+      "Company": "个",
+      "Number": 57,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 13,
+      "Price": 22.8400,
+      "Total": 296.9200
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 28,
+      "Price": 22.7100,
+      "Total": 635.8800
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "全向吸顶天线",
+      "Company": "个",
+      "Number": 36,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "二功分",
+      "Company": "个",
+      "Number": 22,
+      "Price": 21.7500,
+      "Total": 478.5000
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 18,
+      "Price": 22.7600,
+      "Total": 409.6800
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "12dB耦合器",
+      "Company": "个",
+      "Number": 12,
+      "Price": 23.0200,
+      "Total": 276.2400
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "跳线馈线",
+      "Company": "米",
+      "Number": 0,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.7100,
+      "Total": 22.7100
+    },
+    {
+      "Sequence": 30,
+      "MaterialName": "1/2馈线",
+      "Company": "米",
+      "Number": 23215,
+      "Price": 11.7400,
+      "Total": 272544.1000
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "7/8接头",
+      "Company": "个",
+      "Number": 112,
+      "Price": 14.8600,
+      "Total": 1664.3200
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "10dB高品质耦合器",
+      "Company": "个",
+      "Number": 9,
+      "Price": 31.4800,
+      "Total": 283.3200
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "全向吸顶天线",
+      "Company": "个",
+      "Number": 74,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 7,
+      "Price": 22.8400,
+      "Total": 159.8800
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 47,
+      "Price": 22.8300,
+      "Total": 1073.0100
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.8400,
+      "Total": 45.6800
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "四功分",
+      "Company": "个",
+      "Number": 10,
+      "Price": 24.5500,
+      "Total": 245.5000
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "RRU1",
+      "Company": "个",
+      "Number": 1,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "1/2馈线",
+      "Company": "米",
+      "Number": 1654,
+      "Price": 11.7400,
+      "Total": 19417.9600
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "三功分",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.7800,
+      "Total": 45.5600
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "10dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.8500,
+      "Total": 22.8500
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "6dB高品质耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.7900,
+      "Total": 32.7900
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "RRU1",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "全向吸顶天线",
+      "Company": "个",
+      "Number": 36,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "二功分",
+      "Company": "个",
+      "Number": 8,
+      "Price": 21.7500,
+      "Total": 174.0000
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "二功分",
+      "Company": "个",
+      "Number": 1,
+      "Price": 21.7500,
+      "Total": 21.7500
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "1/2接头",
+      "Company": "个",
+      "Number": 118,
+      "Price": 6.9400,
+      "Total": 818.9200
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "板状定向天线",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "1/2馈线",
+      "Company": "米",
+      "Number": 1155,
+      "Price": 11.7400,
+      "Total": 13559.7000
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "8dB高品质耦合器",
+      "Company": "个",
+      "Number": 4,
+      "Price": 32.2800,
+      "Total": 129.1200
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "1/2接头",
+      "Company": "个",
+      "Number": 124,
+      "Price": 6.9400,
+      "Total": 860.5600
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "6dB高品质耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 32.7900,
+      "Total": 65.5800
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "宽频 对数周期天线",
+      "Company": "个",
+      "Number": 7,
+      "Price": 68.0300,
+      "Total": 476.2100
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "5dB高品质耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 33.4700,
+      "Total": 33.4700
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "光跳纤LC-LC-10M接头",
+      "Company": "个",
+      "Number": 4,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "1/2接头",
+      "Company": "个",
+      "Number": 328,
+      "Price": 6.9400,
+      "Total": 2276.3200
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "三功分",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.7800,
+      "Total": 22.7800
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.7100,
+      "Total": 45.4200
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "三功分",
+      "Company": "个",
+      "Number": 22,
+      "Price": 22.7800,
+      "Total": 501.1600
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "光跳线接头",
+      "Company": "个",
+      "Number": 4,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "二功分",
+      "Company": "个",
+      "Number": 39,
+      "Price": 21.7500,
+      "Total": 848.2500
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "四功分",
+      "Company": "个",
+      "Number": 15,
+      "Price": 24.5500,
+      "Total": 368.2500
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "TIAO跳线",
+      "Company": "条",
+      "Number": 30,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "宽频 对数周期天线",
+      "Company": "个",
+      "Number": 14,
+      "Price": 68.0300,
+      "Total": 952.4200
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "全向吸顶天线",
+      "Company": "个",
+      "Number": 156,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "7/8馈线",
+      "Company": "米",
+      "Number": 1320,
+      "Price": 25.6400,
+      "Total": 33844.8000
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "光缆馈线",
+      "Company": "米",
+      "Number": 10,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "10dB耦合器",
+      "Company": "个",
+      "Number": 8,
+      "Price": 22.8500,
+      "Total": 182.8000
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "RRU2",
+      "Company": "个",
+      "Number": 1,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "BBU",
+      "Company": "个",
+      "Number": 4,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 26,
+      "Price": 22.8400,
+      "Total": 593.8400
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "1/2馈线",
+      "Company": "米",
+      "Number": 496,
+      "Price": 11.7400,
+      "Total": 5823.0400
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "直角接头",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "7/8接头",
+      "Company": "个",
+      "Number": 18,
+      "Price": 14.8600,
+      "Total": 267.4800
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "10dB高品质耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 31.4800,
+      "Total": 62.9600
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "定向单极化对数周期天线宽频",
+      "Company": "个",
+      "Number": 122,
+      "Price": 58.4300,
+      "Total": 7128.4600
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "四功分",
+      "Company": "个",
+      "Number": 26,
+      "Price": 24.5500,
+      "Total": 638.3000
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "RRU2",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "8dB高品质耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 32.2800,
+      "Total": 64.5600
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 41,
+      "Price": 22.8400,
+      "Total": 936.4400
+    },
+    {
+      "Sequence": 22,
+      "MaterialName": "1/2馈线",
+      "Company": "米",
+      "Number": 1750,
+      "Price": 11.7400,
+      "Total": 20545.0000
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "5dB高品质耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 33.4700,
+      "Total": 66.9400
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "8dB高品质耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 32.2800,
+      "Total": 64.5600
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "10dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.8500,
+      "Total": 22.8500
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "1/2馈线",
+      "Company": "米",
+      "Number": 225,
+      "Price": 11.7400,
+      "Total": 2641.5000
+    },
+    {
+      "Sequence": 24,
+      "MaterialName": "7/8馈线",
+      "Company": "米",
+      "Number": 280,
+      "Price": 25.6400,
+      "Total": 7179.2000
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "高品质二功分",
+      "Company": "个",
+      "Number": 1,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "GSM&DCS/TD F&TD A/TD E三频合路器（三入一出）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 1089.0000,
+      "Total": 1089.0000
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 21,
+      "Price": 22.8400,
+      "Total": 479.6400
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "10dB高品质耦合器",
+      "Company": "个",
+      "Number": 3,
+      "Price": 31.4800,
+      "Total": 94.4400
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 9,
+      "Price": 22.7600,
+      "Total": 204.8400
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 89,
+      "Price": 22.7100,
+      "Total": 2021.1900
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "三功分",
+      "Company": "个",
+      "Number": 3,
+      "Price": 22.7800,
+      "Total": 68.3400
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "TIAO跳线",
+      "Company": "条",
+      "Number": 49,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 7,
+      "Price": 22.8300,
+      "Total": 159.8100
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 7,
+      "Price": 22.7600,
+      "Total": 159.3200
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "模拟测试点",
+      "Company": "个",
+      "Number": 4,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.7100,
+      "Total": 45.4200
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "10dB高品质耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 31.4800,
+      "Total": 31.4800
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 7,
+      "Price": 22.8400,
+      "Total": 159.8800
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.7100,
+      "Total": 22.7100
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "直角接头",
+      "Company": "个",
+      "Number": 4,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "5dB高品质耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 33.4700,
+      "Total": 33.4700
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "跳线接头",
+      "Company": "个",
+      "Number": 14,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 23,
+      "MaterialName": "1/2馈线",
+      "Company": "米",
+      "Number": 1315,
+      "Price": 11.7400,
+      "Total": 15438.1000
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "6dB高品质耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.7900,
+      "Total": 32.7900
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 8,
+      "Price": 22.8400,
+      "Total": 182.7200
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "光跳纤LC-LC-10M馈线",
+      "Company": "米",
+      "Number": 30,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "三功分",
+      "Company": "个",
+      "Number": 9,
+      "Price": 22.7800,
+      "Total": 205.0200
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "7/8接头",
+      "Company": "个",
+      "Number": 412,
+      "Price": 14.8600,
+      "Total": 6122.3200
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "1/2接头",
+      "Company": "个",
+      "Number": 26,
+      "Price": 6.9400,
+      "Total": 180.4400
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "X芯光纤接头",
+      "Company": "个",
+      "Number": 6,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "10dB耦合器",
+      "Company": "个",
+      "Number": 7,
+      "Price": 22.8500,
+      "Total": 159.9500
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "RRU1",
+      "Company": "个",
+      "Number": 8,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "10dB高品质耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 31.4800,
+      "Total": 31.4800
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "1/2馈线",
+      "Company": "米",
+      "Number": 225,
+      "Price": 11.7400,
+      "Total": 2641.5000
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "10dB耦合器",
+      "Company": "个",
+      "Number": 4,
+      "Price": 22.8500,
+      "Total": 91.4000
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "全向吸顶天线",
+      "Company": "个",
+      "Number": 250,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "光缆接头",
+      "Company": "个",
+      "Number": 8,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "跳线接头",
+      "Company": "个",
+      "Number": 1858,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "8dB高品质耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 32.2800,
+      "Total": 64.5600
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "二功分",
+      "Company": "个",
+      "Number": 2,
+      "Price": 21.7500,
+      "Total": 43.5000
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "7dB高品质耦合器",
+      "Company": "个",
+      "Number": 5,
+      "Price": 32.4100,
+      "Total": 162.0500
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "高品质二功分",
+      "Company": "个",
+      "Number": 1,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.7600,
+      "Total": 22.7600
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "光跳线馈线",
+      "Company": "米",
+      "Number": 20,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "7dB高品质耦合器",
+      "Company": "个",
+      "Number": 7,
+      "Price": 32.4100,
+      "Total": 226.8700
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "10dB耦合器",
+      "Company": "个",
+      "Number": 31,
+      "Price": 22.8500,
+      "Total": 708.3500
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "高品质三功分",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "5dB高品质耦合器",
+      "Company": "个",
+      "Number": 10,
+      "Price": 33.4700,
+      "Total": 334.7000
+    },
+    {
+      "Sequence": 25,
+      "MaterialName": "1/2接头",
+      "Company": "个",
+      "Number": 1566,
+      "Price": 6.9400,
+      "Total": 10868.0400
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 7,
+      "Price": 22.7600,
+      "Total": 159.3200
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "全向吸顶天线",
+      "Company": "个",
+      "Number": 70,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "对数周期天线",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 27,
+      "MaterialName": "全向吸顶天线",
+      "Company": "个",
+      "Number": 1039,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "BBU",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 23,
+      "MaterialName": "7/8馈线",
+      "Company": "米",
+      "Number": 9505,
+      "Price": 25.6400,
+      "Total": 243708.2000
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "二功分",
+      "Company": "个",
+      "Number": 53,
+      "Price": 21.7500,
+      "Total": 1152.7500
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 33,
+      "Price": 22.8300,
+      "Total": 753.3900
+    },
+    {
+      "Sequence": 27,
+      "MaterialName": "TIAO跳线",
+      "Company": "条",
+      "Number": 125,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "二功分",
+      "Company": "个",
+      "Number": 2,
+      "Price": 21.7500,
+      "Total": 43.5000
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 6,
+      "Price": 22.8300,
+      "Total": 136.9800
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "BBU",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "1/2接头",
+      "Company": "个",
+      "Number": 92,
+      "Price": 6.9400,
+      "Total": 638.4800
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "RRU2",
+      "Company": "个",
+      "Number": 19,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "BBU",
+      "Company": "个",
+      "Number": 1,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "直角接头",
+      "Company": "个",
+      "Number": 108,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "6dB高品质耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.7900,
+      "Total": 32.7900
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "对数周期天线(LTE)",
+      "Company": "个",
+      "Number": 6,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "高品质三功分",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "10dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.8500,
+      "Total": 22.8500
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "8dB高品质耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.2800,
+      "Total": 32.2800
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "跳线馈线",
+      "Company": "米",
+      "Number": 0,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "高品质二功分",
+      "Company": "个",
+      "Number": 8,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.7100,
+      "Total": 22.7100
+    },
+    {
+      "Sequence": 24,
+      "MaterialName": "TIAO跳线",
+      "Company": "条",
+      "Number": 1,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "板状定向天线",
+      "Company": "个",
+      "Number": 18,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "二功分",
+      "Company": "个",
+      "Number": 42,
+      "Price": 21.7500,
+      "Total": 913.5000
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "高品质二功分",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "全向吸顶天线",
+      "Company": "个",
+      "Number": 48,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "三功分",
+      "Company": "个",
+      "Number": 15,
+      "Price": 22.7800,
+      "Total": 341.7000
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "7/8接头",
+      "Company": "个",
+      "Number": 16,
+      "Price": 14.8600,
+      "Total": 237.7600
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "X芯光纤接头",
+      "Company": "个",
+      "Number": 6,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 16,
+      "Price": 22.7100,
+      "Total": 363.3600
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "高品质GSM&DCS/TD （A&F&E)双频合路器（二入一出）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 25,
+      "MaterialName": "1/2馈线",
+      "Company": "米",
+      "Number": 2575,
+      "Price": 11.7400,
+      "Total": 30230.5000
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "三功分",
+      "Company": "个",
+      "Number": 40,
+      "Price": 22.7800,
+      "Total": 911.2000
+    },
+    {
+      "Sequence": 23,
+      "MaterialName": "全向吸顶天线",
+      "Company": "个",
+      "Number": 196,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "直角接头",
+      "Company": "个",
+      "Number": 96,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "二功分",
+      "Company": "个",
+      "Number": 291,
+      "Price": 21.7500,
+      "Total": 6329.2500
+    },
+    {
+      "Sequence": 27,
+      "MaterialName": "TIAO跳线",
+      "Company": "条",
+      "Number": 144,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "跳线接头",
+      "Company": "个",
+      "Number": 8,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "8dB高品质耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 32.2800,
+      "Total": 64.5600
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "7/8馈线",
+      "Company": "米",
+      "Number": 450,
+      "Price": 25.6400,
+      "Total": 11538.0000
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "12dB高品质耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 32.0100,
+      "Total": 64.0200
+    },
+    {
+      "Sequence": 26,
+      "MaterialName": "7/8馈线",
+      "Company": "米",
+      "Number": 2355,
+      "Price": 25.6400,
+      "Total": 60382.2000
+    },
+    {
+      "Sequence": 24,
+      "MaterialName": "20dB耦合器",
+      "Company": "个",
+      "Number": 3,
+      "Price": 23.4800,
+      "Total": 70.4400
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "高品质二功分",
+      "Company": "个",
+      "Number": 1,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.8300,
+      "Total": 22.8300
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "直角接头",
+      "Company": "个",
+      "Number": 40,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 23,
+      "MaterialName": "TIAO跳线",
+      "Company": "条",
+      "Number": 43,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.8300,
+      "Total": 45.6600
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "12dB高品质耦合器",
+      "Company": "个",
+      "Number": 3,
+      "Price": 32.0100,
+      "Total": 96.0300
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "高品质GSM&DCS/TD （A&F&E)双频合路器（二入一出）",
+      "Company": "个",
+      "Number": 3,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "10dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.8500,
+      "Total": 22.8500
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "光跳线馈线",
+      "Company": "米",
+      "Number": 10,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "1/2接头",
+      "Company": "个",
+      "Number": 114,
+      "Price": 6.9400,
+      "Total": 791.1600
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "24芯非金属阻燃光缆接头",
+      "Company": "个",
+      "Number": 34,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "全向吸顶天线",
+      "Company": "个",
+      "Number": 48,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "直角接头",
+      "Company": "个",
+      "Number": 30,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "跳线接头",
+      "Company": "个",
+      "Number": 330,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "四功分",
+      "Company": "个",
+      "Number": 1,
+      "Price": 24.5500,
+      "Total": 24.5500
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.7100,
+      "Total": 45.4200
+    },
+    {
+      "Sequence": 22,
+      "MaterialName": "AP接口模块(单口)",
+      "Company": "个",
+      "Number": 1,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "高品质200W电桥",
+      "Company": "个",
+      "Number": 6,
+      "Price": 115.4000,
+      "Total": 692.4000
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "高品质二功分",
+      "Company": "个",
+      "Number": 1,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 24,
+      "MaterialName": "X芯光纤馈线",
+      "Company": "米",
+      "Number": 230,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 7,
+      "Price": 22.7600,
+      "Total": 159.3200
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "跳线馈线",
+      "Company": "米",
+      "Number": 0,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "全向吸顶天线",
+      "Company": "个",
+      "Number": 155,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "RRU2",
+      "Company": "个",
+      "Number": 3,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "1/2接头",
+      "Company": "个",
+      "Number": 44,
+      "Price": 6.9400,
+      "Total": 305.3600
+    },
+    {
+      "Sequence": 22,
+      "MaterialName": "7/8馈线",
+      "Company": "米",
+      "Number": 3885,
+      "Price": 25.6400,
+      "Total": 99611.4000
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "1/2接头",
+      "Company": "个",
+      "Number": 108,
+      "Price": 6.9400,
+      "Total": 749.5200
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "高品质四功分",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "TIAO跳线",
+      "Company": "条",
+      "Number": 30,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "RRU2",
+      "Company": "个",
+      "Number": 1,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "7/8接头",
+      "Company": "个",
+      "Number": 16,
+      "Price": 14.8600,
+      "Total": 237.7600
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "5dB高品质耦合器",
+      "Company": "个",
+      "Number": 4,
+      "Price": 33.4700,
+      "Total": 133.8800
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "BBU",
+      "Company": "个",
+      "Number": 1,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "7/8接头",
+      "Company": "个",
+      "Number": 140,
+      "Price": 14.8600,
+      "Total": 2080.4000
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "3dB电桥(100W)",
+      "Company": "个",
+      "Number": 1,
+      "Price": 53.9600,
+      "Total": 53.9600
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 7,
+      "Price": 22.8300,
+      "Total": 159.8100
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "高品质三功分",
+      "Company": "个",
+      "Number": 1,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 14,
+      "Price": 22.8400,
+      "Total": 319.7600
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "7/8馈线",
+      "Company": "米",
+      "Number": 450,
+      "Price": 25.6400,
+      "Total": 11538.0000
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "三功分",
+      "Company": "个",
+      "Number": 18,
+      "Price": 22.7800,
+      "Total": 410.0400
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "6dB高品质耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.7900,
+      "Total": 32.7900
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 4,
+      "Price": 22.8300,
+      "Total": 91.3200
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "RRU2",
+      "Company": "个",
+      "Number": 4,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 22,
+      "MaterialName": "1/2馈线",
+      "Company": "米",
+      "Number": 310,
+      "Price": 11.7400,
+      "Total": 3639.4000
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "高品质二功分",
+      "Company": "个",
+      "Number": 5,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 22,
+      "MaterialName": "7/8馈线",
+      "Company": "米",
+      "Number": 280,
+      "Price": 25.6400,
+      "Total": 7179.2000
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "二功分",
+      "Company": "个",
+      "Number": 24,
+      "Price": 21.7500,
+      "Total": 522.0000
+    },
+    {
+      "Sequence": 24,
+      "MaterialName": "7/8馈线",
+      "Company": "米",
+      "Number": 17740,
+      "Price": 25.6400,
+      "Total": 454853.6000
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 32,
+      "Price": 22.8400,
+      "Total": 730.8800
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "1/2接头",
+      "Company": "个",
+      "Number": 370,
+      "Price": 6.9400,
+      "Total": 2567.8000
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "10dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.8500,
+      "Total": 22.8500
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "宽频 对数周期天线",
+      "Company": "个",
+      "Number": 12,
+      "Price": 68.0300,
+      "Total": 816.3600
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 10,
+      "Price": 22.8300,
+      "Total": 228.3000
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "跳线接头",
+      "Company": "个",
+      "Number": 22,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "宽频 对数周期天线",
+      "Company": "个",
+      "Number": 2,
+      "Price": 68.0300,
+      "Total": 136.0600
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "1/2接头",
+      "Company": "个",
+      "Number": 22,
+      "Price": 6.9400,
+      "Total": 152.6800
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.8300,
+      "Total": 45.6600
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "二功分",
+      "Company": "个",
+      "Number": 2,
+      "Price": 21.7500,
+      "Total": 43.5000
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "光跳线接头",
+      "Company": "个",
+      "Number": 4,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "10dB高品质耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 31.4800,
+      "Total": 31.4800
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "宽频 对数周期天线",
+      "Company": "个",
+      "Number": 2,
+      "Price": 68.0300,
+      "Total": 136.0600
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "光跳线接头",
+      "Company": "个",
+      "Number": 4,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "3dB电桥(100W)",
+      "Company": "个",
+      "Number": 1,
+      "Price": 53.9600,
+      "Total": 53.9600
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.7100,
+      "Total": 45.4200
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "7dB高品质耦合器",
+      "Company": "个",
+      "Number": 4,
+      "Price": 32.4100,
+      "Total": 129.6400
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "跳线接头",
+      "Company": "个",
+      "Number": 302,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "直角接头",
+      "Company": "个",
+      "Number": 30,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 31,
+      "MaterialName": "7/8馈线",
+      "Company": "米",
+      "Number": 21135,
+      "Price": 25.6400,
+      "Total": 541901.4000
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "全向吸顶天线",
+      "Company": "个",
+      "Number": 72,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "光缆接头",
+      "Company": "个",
+      "Number": 16,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "高品质三功分",
+      "Company": "个",
+      "Number": 4,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "二功分",
+      "Company": "个",
+      "Number": 56,
+      "Price": 21.7500,
+      "Total": 1218.0000
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "7dB高品质耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.4100,
+      "Total": 32.4100
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "BBU",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "RRU1",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "10dB耦合器",
+      "Company": "个",
+      "Number": 5,
+      "Price": 22.8500,
+      "Total": 114.2500
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "光缆馈线",
+      "Company": "米",
+      "Number": 2130,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "DCS&GSM",
+      "Company": "个",
+      "Number": 1,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "7/8馈线",
+      "Company": "米",
+      "Number": 3566,
+      "Price": 25.6400,
+      "Total": 91432.2400
+    },
+    {
+      "Sequence": 22,
+      "MaterialName": "对数周期天线",
+      "Company": "个",
+      "Number": 24,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "跳线馈线",
+      "Company": "米",
+      "Number": 0,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.7100,
+      "Total": 45.4200
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "5dB高品质耦合器",
+      "Company": "个",
+      "Number": 3,
+      "Price": 33.4700,
+      "Total": 100.4100
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "7/8接头",
+      "Company": "个",
+      "Number": 76,
+      "Price": 14.8600,
+      "Total": 1129.3600
+    },
+    {
+      "Sequence": 25,
+      "MaterialName": "1/2馈线",
+      "Company": "米",
+      "Number": 3730,
+      "Price": 11.7400,
+      "Total": 43790.2000
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "三功分",
+      "Company": "个",
+      "Number": 5,
+      "Price": 22.7800,
+      "Total": 113.9000
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "全向吸顶天线",
+      "Company": "个",
+      "Number": 36,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "24芯终端盒LC",
+      "Company": "个",
+      "Number": 2,
+      "Price": 544.5600,
+      "Total": 1089.1200
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "1/2馈线",
+      "Company": "米",
+      "Number": 225,
+      "Price": 11.7400,
+      "Total": 2641.5000
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "高品质二功分",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 22,
+      "Price": 22.7600,
+      "Total": 500.7200
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "BBU",
+      "Company": "个",
+      "Number": 3,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 22,
+      "MaterialName": "X芯光纤馈线",
+      "Company": "米",
+      "Number": 30,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "负载200W",
+      "Company": "个",
+      "Number": 1,
+      "Price": 267.3700,
+      "Total": 267.3700
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "BBU",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "光跳线接头",
+      "Company": "个",
+      "Number": 4,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "板状定向天线",
+      "Company": "个",
+      "Number": 28,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "四功分",
+      "Company": "个",
+      "Number": 28,
+      "Price": 24.5500,
+      "Total": 687.4000
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "全向吸顶天线",
+      "Company": "个",
+      "Number": 16,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "RRU1",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "二功分",
+      "Company": "个",
+      "Number": 14,
+      "Price": 21.7500,
+      "Total": 304.5000
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "光跳线馈线",
+      "Company": "米",
+      "Number": 10,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "7/8接头",
+      "Company": "个",
+      "Number": 68,
+      "Price": 14.8600,
+      "Total": 1010.4800
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 7,
+      "Price": 22.8300,
+      "Total": 159.8100
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 6,
+      "Price": 22.7600,
+      "Total": 136.5600
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "1/2接头",
+      "Company": "个",
+      "Number": 22,
+      "Price": 6.9400,
+      "Total": 152.6800
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 48,
+      "Price": 22.7100,
+      "Total": 1090.0800
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "8dB高品质耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 32.2800,
+      "Total": 64.5600
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "高品质三功分",
+      "Company": "个",
+      "Number": 6,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "BBU",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 13,
+      "Price": 22.8400,
+      "Total": 296.9200
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "三功分",
+      "Company": "个",
+      "Number": 9,
+      "Price": 22.7800,
+      "Total": 205.0200
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "6dB高品质耦合器",
+      "Company": "个",
+      "Number": 4,
+      "Price": 32.7900,
+      "Total": 131.1600
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "二功分",
+      "Company": "个",
+      "Number": 16,
+      "Price": 21.7500,
+      "Total": 348.0000
+    },
+    {
+      "Sequence": 24,
+      "MaterialName": "光缆馈线",
+      "Company": "米",
+      "Number": 360,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "BBU",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "6dB高品质耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.7900,
+      "Total": 32.7900
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "10dB高品质耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 31.4800,
+      "Total": 31.4800
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "1/2馈线",
+      "Company": "米",
+      "Number": 1315,
+      "Price": 11.7400,
+      "Total": 15438.1000
+    },
+    {
+      "Sequence": 22,
+      "MaterialName": "12dB耦合器",
+      "Company": "个",
+      "Number": 28,
+      "Price": 23.0200,
+      "Total": 644.5600
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "跳线接头",
+      "Company": "个",
+      "Number": 120,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "三功分",
+      "Company": "个",
+      "Number": 167,
+      "Price": 22.7800,
+      "Total": 3804.2600
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "GSM&DCS&TD&WLAN",
+      "Company": "个",
+      "Number": 4,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.7600,
+      "Total": 45.5200
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "10dB耦合器",
+      "Company": "个",
+      "Number": 33,
+      "Price": 22.8500,
+      "Total": 754.0500
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "7/8接头",
+      "Company": "个",
+      "Number": 68,
+      "Price": 14.8600,
+      "Total": 1010.4800
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "10dB高品质耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 31.4800,
+      "Total": 31.4800
+    },
+    {
+      "Sequence": 23,
+      "MaterialName": "TIAO跳线",
+      "Company": "条",
+      "Number": 178,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 23,
+      "MaterialName": "跳线馈线",
+      "Company": "米",
+      "Number": 0,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "7/8接头",
+      "Company": "个",
+      "Number": 540,
+      "Price": 14.8600,
+      "Total": 8024.4000
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "10dB高品质耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 31.4800,
+      "Total": 31.4800
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "RRU2",
+      "Company": "个",
+      "Number": 3,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "5dB高品质耦合器",
+      "Company": "个",
+      "Number": 6,
+      "Price": 33.4700,
+      "Total": 200.8200
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 14,
+      "Price": 22.7600,
+      "Total": 318.6400
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "6dB高品质耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.7900,
+      "Total": 32.7900
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 13,
+      "Price": 22.8400,
+      "Total": 296.9200
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "宽频 对数周期天线",
+      "Company": "个",
+      "Number": 6,
+      "Price": 68.0300,
+      "Total": 408.1800
+    },
+    {
+      "Sequence": 28,
+      "MaterialName": "24芯非金属阻燃光缆馈线",
+      "Company": "米",
+      "Number": 1230,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 10,
+      "Price": 22.8300,
+      "Total": 228.3000
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "15dB高品质耦合器",
+      "Company": "个",
+      "Number": 3,
+      "Price": 32.4100,
+      "Total": 97.2300
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "6dB高品质耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 32.7900,
+      "Total": 65.5800
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "定向单极化对数周期天线宽频",
+      "Company": "个",
+      "Number": 1,
+      "Price": 58.4300,
+      "Total": 58.4300
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "GSM&DCS&TD F&TD A&TD E/WLAN双频合路器（二入一出）",
+      "Company": "个",
+      "Number": 5,
+      "Price": 1242.0000,
+      "Total": 6210.0000
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 66,
+      "Price": 22.7600,
+      "Total": 1502.1600
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "5dB高品质耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 33.4700,
+      "Total": 33.4700
+    },
+    {
+      "Sequence": 23,
+      "MaterialName": "15dB耦合器",
+      "Company": "个",
+      "Number": 18,
+      "Price": 23.1600,
+      "Total": 416.8800
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "定向单极化吸顶天线宽频",
+      "Company": "个",
+      "Number": 110,
+      "Price": 30.1400,
+      "Total": 3315.4000
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "RRU1",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "高品质二功分",
+      "Company": "个",
+      "Number": 1,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "四功分",
+      "Company": "个",
+      "Number": 1,
+      "Price": 24.5500,
+      "Total": 24.5500
+    },
+    {
+      "Sequence": 25,
+      "MaterialName": "TIAO跳线",
+      "Company": "条",
+      "Number": 43,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "模拟发射点",
+      "Company": "个",
+      "Number": 1,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 171,
+      "Price": 22.8400,
+      "Total": 3905.6400
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "7/8接头",
+      "Company": "个",
+      "Number": 120,
+      "Price": 14.8600,
+      "Total": 1783.2000
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "7/8接头",
+      "Company": "个",
+      "Number": 404,
+      "Price": 14.8600,
+      "Total": 6003.4400
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "板状定向天线",
+      "Company": "个",
+      "Number": 4,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "高品质GSM/DCS/TD （A&F&E)双频合路器（三入一出）",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "RRU2",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.7600,
+      "Total": 45.5200
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "RRU2",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "TIAO跳线",
+      "Company": "条",
+      "Number": 30,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "全向吸顶天线",
+      "Company": "个",
+      "Number": 91,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "高品质200W负载",
+      "Company": "个",
+      "Number": 2,
+      "Price": 215.2000,
+      "Total": 430.4000
+    },
+    {
+      "Sequence": 23,
+      "MaterialName": "1/2馈线",
+      "Company": "米",
+      "Number": 1660,
+      "Price": 11.7400,
+      "Total": 19488.4000
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "7/8接头",
+      "Company": "个",
+      "Number": 68,
+      "Price": 14.8600,
+      "Total": 1010.4800
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "光跳线馈线",
+      "Company": "米",
+      "Number": 10,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "二功分",
+      "Company": "个",
+      "Number": 12,
+      "Price": 21.7500,
+      "Total": 261.0000
+    },
+    {
+      "Sequence": 26,
+      "MaterialName": "7/8接头",
+      "Company": "个",
+      "Number": 1026,
+      "Price": 14.8600,
+      "Total": 15246.3600
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "7/8馈线",
+      "Company": "米",
+      "Number": 180,
+      "Price": 25.6400,
+      "Total": 4615.2000
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "BBU",
+      "Company": "个",
+      "Number": 2,
+      "Price": 0.0000,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "7/8接头",
+      "Company": "个",
+      "Number": 16,
+      "Price": 14.8600,
+      "Total": 237.7600
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "定向单极化对数周期天线宽频",
+      "Company": "个",
+      "Number": 1,
+      "Price": 58.4300,
+      "Total": 58.4300
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "二功分器",
+      "Company": "个",
+      "Number": 38,
+      "Price": 21.7486,
+      "Total": 826.4467
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "二功分器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 21.7486,
+      "Total": 43.4972
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "高品质合路器 GSM/DCS/TD（A&F&E)双频合路器（三入一出）（产品编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 359.9169,
+      "Total": 359.9169
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "二功分器",
+      "Company": "个",
+      "Number": 14,
+      "Price": 21.7486,
+      "Total": 304.4800
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "二功分器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 21.7500,
+      "Total": 43.5000
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "二功分器",
+      "Company": "个",
+      "Number": 92,
+      "Price": 21.7486,
+      "Total": 2000.8711
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "二功分器",
+      "Company": "个",
+      "Number": 20,
+      "Price": 21.7486,
+      "Total": 434.9720
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "二功分",
+      "Company": "个",
+      "Number": 2,
+      "Price": 21.7500,
+      "Total": 43.5000
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "1/2\"超柔阻燃1米跳线",
+      "Specifications": "N阳头转N阳头",
+      "Company": "根",
+      "Number": 43,
+      "Price": 100.0000,
+      "Total": 4300.0000
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "二功分器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 21.7500,
+      "Total": 43.5000
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "二功分-腔体功分器-低功率等级-N型头",
+      "Company": "个",
+      "Number": 42,
+      "Price": 21.7486,
+      "Total": 913.4411
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "二功分器",
+      "Specifications": "SYD-CS0800/2500-2/200-NF/NF",
+      "Company": "个",
+      "Number": 56,
+      "Price": 20.2000,
+      "Total": 1131.2000
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "二功分器",
+      "Company": "个",
+      "Number": 53,
+      "Price": 21.7486,
+      "Total": 1152.6800
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "二功分器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 21.7500,
+      "Total": 5583.4110
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "二功分器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 21.7500,
+      "Total": 43.5000
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "托盘",
+      "Specifications": "贴墙式",
+      "Company": "个",
+      "Number": 30,
+      "Price": 22.0000,
+      "Total": 660.0000
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "二功分（200W）",
+      "Specifications": "高功率",
+      "Company": "个",
+      "Number": 8,
+      "Price": 31.6771,
+      "Total": 253.4170
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "三功分器",
+      "Company": "个",
+      "Number": 18,
+      "Price": 22.7830,
+      "Total": 410.0900
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "三功分器",
+      "Company": "个",
+      "Number": 6,
+      "Price": 22.7830,
+      "Total": 136.6981
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 13,
+      "Price": 22.8400,
+      "Total": 296.9200
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "三功分器",
+      "Company": "个",
+      "Number": 15,
+      "Price": 22.7830,
+      "Total": 341.7453
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 13,
+      "Price": 22.8400,
+      "Total": 296.9200
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 13,
+      "Price": 22.8400,
+      "Total": 296.9200
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "三功分器",
+      "Company": "个",
+      "Number": 9,
+      "Price": 22.7830,
+      "Total": 205.0500
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "腔体耦合器-低功率等级产品-5dB-N型头",
+      "Company": "个",
+      "Number": 41,
+      "Price": 22.8396,
+      "Total": 936.4254
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "三功分器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.7800,
+      "Total": 15575.8584
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "三功分器",
+      "Company": "个",
+      "Number": 3,
+      "Price": 22.7830,
+      "Total": 68.3491
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 60,
+      "Price": 22.8396,
+      "Total": 1370.3786
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "三功分器",
+      "Specifications": "SYD-CS0800/2500-3/200-NF/NF",
+      "Company": "个",
+      "Number": 3,
+      "Price": 21.2100,
+      "Total": 63.6300
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 13,
+      "Price": 22.8400,
+      "Total": 296.9200
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.7100,
+      "Total": 45.4200
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "四功分器",
+      "Company": "个",
+      "Number": 10,
+      "Price": 24.5467,
+      "Total": 245.4700
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "四功分器",
+      "Specifications": "SYD-CS0800/2500-4/200-NF/NF",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.5800,
+      "Total": 22.5800
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.7100,
+      "Total": 45.4200
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "四功分器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 24.5467,
+      "Total": 24.5467
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "四功分器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 24.5500,
+      "Total": 1223.4560
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "腔体耦合器-低功率等级产品-6dB-N型头",
+      "Company": "个",
+      "Number": 28,
+      "Price": 22.7137,
+      "Total": 635.9842
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "四功分器",
+      "Company": "个",
+      "Number": 15,
+      "Price": 24.5467,
+      "Total": 368.1999
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.7100,
+      "Total": 45.4200
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 63,
+      "Price": 22.7564,
+      "Total": 1433.6507
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 21,
+      "Price": 22.8396,
+      "Total": 479.6325
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.7100,
+      "Total": 45.4200
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "电源线",
+      "Specifications": "ZA-RVV-3*2.5",
+      "Company": "米",
+      "Number": 20,
+      "Price": 7.0000,
+      "Total": 140.0000
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 5,
+      "Price": 22.8396,
+      "Total": 114.2000
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "三功分（200W）",
+      "Specifications": "高功率",
+      "Company": "个",
+      "Number": 22,
+      "Price": 33.2182,
+      "Total": 730.8010
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 7,
+      "Price": 22.7600,
+      "Total": 159.3200
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.7137,
+      "Total": 45.4300
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "地线",
+      "Specifications": "ZA-RVV-1×16MM",
+      "Company": "米",
+      "Number": 20,
+      "Price": 12.0000,
+      "Total": 240.0000
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 7,
+      "Price": 22.7600,
+      "Total": 159.3200
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "5dB耦合器",
+      "Specifications": "SYD-CT0800/2500-05/200-NF/NF",
+      "Company": "个",
+      "Number": 14,
+      "Price": 21.3800,
+      "Total": 299.3200
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.7137,
+      "Total": 22.7137
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 66,
+      "Price": 22.8296,
+      "Total": 1506.7553
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 7,
+      "Price": 22.7600,
+      "Total": 159.3200
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 26,
+      "Price": 22.8396,
+      "Total": 593.8300
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.8400,
+      "Total": 1210.6800
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "耦合器（200W,5dB）",
+      "Specifications": "高功率",
+      "Company": "个",
+      "Number": 2,
+      "Price": 33.4732,
+      "Total": 66.9464
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.8396,
+      "Total": 22.8396
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 7,
+      "Price": 22.7600,
+      "Total": 159.3200
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 6,
+      "Price": 22.8396,
+      "Total": 137.0379
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 18,
+      "Price": 22.7564,
+      "Total": 409.6145
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 10,
+      "Price": 22.8296,
+      "Total": 228.2963
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 7,
+      "Price": 22.8300,
+      "Total": 159.8100
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "高品质无源器件 二功分器（腔体）",
+      "Company": "个",
+      "Number": 2,
+      "Price": 31.6771,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.7137,
+      "Total": 22.7137
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "空开",
+      "Specifications": "正泰、10A、单联",
+      "Company": "个",
+      "Number": 2,
+      "Price": 18.0000,
+      "Total": 36.0000
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 34,
+      "Price": 22.7137,
+      "Total": 772.2666
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 7,
+      "Price": 22.8300,
+      "Total": 159.8100
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.7100,
+      "Total": 14.1200
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "耦合器（200W,6dB）",
+      "Specifications": "高功率",
+      "Company": "个",
+      "Number": 2,
+      "Price": 32.7892,
+      "Total": 65.5783
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 3,
+      "Price": 22.7564,
+      "Total": 68.2700
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 7,
+      "Price": 22.8300,
+      "Total": 159.8100
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 16,
+      "Price": 22.7137,
+      "Total": 363.4200
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "6dB耦合器",
+      "Specifications": "SYD-CT0800/2500-06/200-NF/NF",
+      "Company": "个",
+      "Number": 48,
+      "Price": 21.3800,
+      "Total": 1026.2400
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "10dB耦合器",
+      "Company": "个",
+      "Number": 118,
+      "Price": 22.8482,
+      "Total": 2696.0921
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 7,
+      "Price": 22.8300,
+      "Total": 159.8100
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "12dB耦合器",
+      "Company": "个",
+      "Number": 203,
+      "Price": 23.0176,
+      "Total": 4672.5635
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 14,
+      "Price": 22.7564,
+      "Total": 318.5900
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "10dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 31.4800,
+      "Total": 31.4800
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 3,
+      "Price": 22.8296,
+      "Total": 68.4889
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "10dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 31.4800,
+      "Total": 31.4800
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.8296,
+      "Total": 45.6600
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "高品质无源器件 三功分器（腔体）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 33.2182,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "腔体耦合器-低功率等级产品-10dB-N型头",
+      "Company": "个",
+      "Number": 8,
+      "Price": 22.8482,
+      "Total": 182.7859
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "10dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 31.4800,
+      "Total": 31.4800
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "耦合器（200W,7dB）",
+      "Specifications": "高功率",
+      "Company": "个",
+      "Number": 6,
+      "Price": 32.4066,
+      "Total": 194.4393
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "空开箱",
+      "Specifications": "200mm*200mm*1O0mm",
+      "Company": "个",
+      "Number": 2,
+      "Price": 12.0000,
+      "Total": 24.0000
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "10dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 31.4800,
+      "Total": 31.4800
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.7600,
+      "Total": 14.1200
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 21,
+      "Price": 22.7564,
+      "Total": 477.8836
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "7dB耦合器",
+      "Specifications": "SYD-CT0800/2500-07/200-NF/NF",
+      "Company": "个",
+      "Number": 9,
+      "Price": 21.3800,
+      "Total": 192.4200
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "15dB耦合器",
+      "Company": "个",
+      "Number": 135,
+      "Price": 23.1611,
+      "Total": 3126.7474
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "高品质无源器件 7dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.4066,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "电表",
+      "Specifications": "得力西、10A",
+      "Company": "个",
+      "Number": 1,
+      "Price": 80.0000,
+      "Total": 80.0000
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "高品质无源器件 6dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.4100,
+      "Total": 32.4100
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 7,
+      "Price": 22.8296,
+      "Total": 159.8074
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "高品质无源器件 6dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.4100,
+      "Total": 32.4100
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "高品质无源器件 6dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 32.7892,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "高品质无源器件 二功分器（腔体）",
+      "Company": "个",
+      "Number": 5,
+      "Price": 31.6771,
+      "Total": 158.3856
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "8dB耦合器",
+      "Specifications": "SYD-CT0800/2500-08/200-NF/NF",
+      "Company": "个",
+      "Number": 33,
+      "Price": 21.3800,
+      "Total": 705.5400
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "高品质无源器件 二功分器（腔体）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 31.6771,
+      "Total": 31.6800
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "高品质无源器件 6dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.4100,
+      "Total": 32.4100
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "10dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.8482,
+      "Total": 22.8500
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "6dB高品质耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.4100,
+      "Total": 32.4100
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "耦合器（200W,8dB）",
+      "Specifications": "高功率",
+      "Company": "个",
+      "Number": 6,
+      "Price": 32.2825,
+      "Total": 193.6950
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.8300,
+      "Total": 14.1200
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "高品质无源器件 8dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 32.2800,
+      "Total": 64.5600
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "10dB耦合器",
+      "Specifications": "SYD-CT0800/2500-10/200-NF/NF",
+      "Company": "个",
+      "Number": 33,
+      "Price": 21.2100,
+      "Total": 699.9300
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "防雷插座（三联）",
+      "Specifications": "突破保镖TZ-Y/TA-J1",
+      "Company": "个",
+      "Number": 1,
+      "Price": 110.0000,
+      "Total": 110.0000
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "10dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.8500,
+      "Total": 14.1200
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "高品质无源器件 5dB耦合器",
+      "Company": "个",
+      "Number": 6,
+      "Price": 33.4732,
+      "Total": 200.8400
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "高品质无源器件 10dB耦合器",
+      "Company": "个",
+      "Number": 3,
+      "Price": 32.2800,
+      "Total": 96.8400
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "高品质无源器件 10dB耦合器",
+      "Company": "个",
+      "Number": 3,
+      "Price": 32.2800,
+      "Total": 96.8400
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "耦合器（200W,10dB）",
+      "Specifications": "高功率",
+      "Company": "个",
+      "Number": 4,
+      "Price": 31.4840,
+      "Total": 125.9362
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "10dB高品质耦合器",
+      "Company": "个",
+      "Number": 3,
+      "Price": 32.2800,
+      "Total": 96.8400
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "高品质合路器 GSM&DCS/TD（A&F&E)双频合路器（两入一出）（产品编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 369.0000,
+      "Total": 369.0000
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "10dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.8482,
+      "Total": 45.6965
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "高品质无源器件 二功分器（腔体）",
+      "Company": "个",
+      "Number": 30,
+      "Price": 31.6771,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "高品质无源器件 7dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.4066,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "高品质无源器件 二功分器（腔体）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 31.6771,
+      "Total": 31.6800
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "高品质无源器件 三功分器（腔体）",
+      "Company": "个",
+      "Number": 4,
+      "Price": 33.2182,
+      "Total": 132.8729
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "高品质合路器 GSM&DCS/TD（A&F&E)双频合路器（两入一出）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 369.0000,
+      "Total": 369.0000
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "48芯终端盒LC（产品编码）",
+      "Company": "套",
+      "Number": 2,
+      "Price": 1051.6728,
+      "Total": 2103.3456
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "12dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 23.0200,
+      "Total": 14.1200
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "高品质合路器 GSM&DCS/TD（A&F&E)双频合路器（两入一出）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 369.0000,
+      "Total": 369.0000
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "高品质无源器件 7dB耦合器",
+      "Company": "个",
+      "Number": 7,
+      "Price": 32.4066,
+      "Total": 226.8500
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "高品质无源器件 5dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 33.4732,
+      "Total": 66.9464
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "全向单极化吸顶天线宽频（低频2dBi高频4dBi）（产品编码）",
+      "Company": "副",
+      "Number": 16,
+      "Price": 23.5909,
+      "Total": 377.4544
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "高品质合路器 GSM&DCS/TD（A&F&E)双频合路器（两入一出）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 369.0000,
+      "Total": 369.0000
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "高品质无源器件 二功分器（腔体）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 31.6771,
+      "Total": 31.6771
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "高品质无源器件 6dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 32.7892,
+      "Total": 65.5800
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "12dB耦合器",
+      "Specifications": "SYD-CT0800/2500-12/200-NF/NF",
+      "Company": "个",
+      "Number": 12,
+      "Price": 21.2100,
+      "Total": 254.5200
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "高品质无源器件 5dB耦合器",
+      "Company": "个",
+      "Number": 5,
+      "Price": 33.4732,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "全向吸顶天线,宽频",
+      "Specifications": "IXD-360V03NN",
+      "Company": "副",
+      "Number": 74,
+      "Price": 23.5909,
+      "Total": 1745.7264
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "高品质合路器 GSM&DCS/TD（A&F&E)双频合路器（两入一出）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 369.0000,
+      "Total": 369.0000
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "高品质合路器 GSM&DCS/TD（A&F&E)双频合路器（两入一出）（产品编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 369.0000,
+      "Total": 369.0000
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "高品质无源器件 7dB耦合器",
+      "Company": "个",
+      "Number": 4,
+      "Price": 32.4066,
+      "Total": 129.6262
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "高品质无源器件 7dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.4066,
+      "Total": 32.4100
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "高品质无源器件 5dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 33.4732,
+      "Total": 66.9464
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "全向单极化吸顶天线宽频",
+      "Company": "副",
+      "Number": 36,
+      "Price": 24.2500,
+      "Total": 873.0000
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "48芯非金属阻燃光缆GYFTZY-48B1.3（产品编码）",
+      "Company": "米",
+      "Number": 10,
+      "Price": 6.2503,
+      "Total": 62.5032
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "高品质无源器件 8dB耦合器",
+      "Company": "个",
+      "Number": 4,
+      "Price": 32.2825,
+      "Total": 129.1300
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "全向吸顶天线",
+      "Company": "副",
+      "Number": 36,
+      "Price": 24.2500,
+      "Total": 873.0000
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "全向单极化吸顶天线宽频",
+      "Company": "副",
+      "Number": 36,
+      "Price": 24.2500,
+      "Total": 873.0000
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "1/2\"超柔阻燃1米跳线",
+      "Specifications": "N阳头转N阳头",
+      "Company": "根",
+      "Number": 11,
+      "Price": 100.0000,
+      "Total": 1100.0000
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "全向单极化吸顶天线宽频（低频2dBi高频4dBi）（产品编码）",
+      "Company": "副",
+      "Number": 72,
+      "Price": 23.5909,
+      "Total": 1698.5446
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "高品质无源器件 8dB耦合器",
+      "Company": "个",
+      "Number": 3,
+      "Price": 32.2825,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "龙门架",
+      "Specifications": "19\" 1800mm",
+      "Company": "个",
+      "Number": 1,
+      "Price": 3000.0000,
+      "Total": 3000.0000
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "全向单极化吸顶天线宽频",
+      "Company": "副",
+      "Number": 36,
+      "Price": 24.2500,
+      "Total": 873.0000
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "15dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 23.1600,
+      "Total": 14.1200
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "15dB耦合器",
+      "Specifications": "SYD-CT0800/2500-15/200-NF/NF",
+      "Company": "个",
+      "Number": 2,
+      "Price": 21.3800,
+      "Total": 42.7600
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "高品质无源器件 6dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.7892,
+      "Total": 32.7892
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "托盘",
+      "Specifications": "贴墙式",
+      "Company": "个",
+      "Number": 5,
+      "Price": 22.0000,
+      "Total": 110.0000
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "定向单极化对数周期天线宽频",
+      "Company": "副",
+      "Number": 1,
+      "Price": 116.8700,
+      "Total": 116.8700
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "空调",
+      "Specifications": "2P",
+      "Company": "台",
+      "Number": 1,
+      "Price": 5000.0000,
+      "Total": 5000.0000
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "合路器",
+      "Specifications": "GSM&DCS/TD F&TD A&TD E双频合路（二入一出）",
+      "Company": "个",
+      "Number": 5,
+      "Price": 720.0000,
+      "Total": 3600.0000
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "高品质无源器件 10dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 31.4840,
+      "Total": 62.9700
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "高品质无源器件 8dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 32.2825,
+      "Total": 64.5650
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "20dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 23.4800,
+      "Total": 14.1200
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "定向单极化对数周期天线宽频",
+      "Company": "副",
+      "Number": 1,
+      "Price": 116.8700,
+      "Total": 116.8700
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "高品质无源器件 10dB耦合器",
+      "Company": "个",
+      "Number": 11,
+      "Price": 31.4840,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "定向单极化对数周期天线宽频",
+      "Company": "副",
+      "Number": 1,
+      "Price": 116.8700,
+      "Total": 116.8700
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "定向单极化对数周期天线宽频",
+      "Company": "副",
+      "Number": 1,
+      "Price": 116.8700,
+      "Total": 116.8700
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "高品质无源器件 200W电桥（产品编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 115.4023,
+      "Total": 115.4000
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "1/2馈线",
+      "Specifications": "普通",
+      "Company": "米",
+      "Number": 990,
+      "Price": 11.7400,
+      "Total": 11622.6000
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "定向单极化壁挂天线宽频（低频90°6.5dBi高频75°8dBi）（产品编码）",
+      "Company": "副",
+      "Number": 2,
+      "Price": 47.5976,
+      "Total": 95.1951
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "室内交流配电箱",
+      "Specifications": "（220V/32A）",
+      "Company": "台",
+      "Number": 1,
+      "Price": 1000.0000,
+      "Total": 1000.0000
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "1/2\"超柔阻燃1米跳线",
+      "Specifications": "N阳头转N阳头",
+      "Company": "根",
+      "Number": 20,
+      "Price": 100.0000,
+      "Total": 2000.0000
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "高品质无源器件 10dB耦合器",
+      "Company": "个",
+      "Number": 3,
+      "Price": 31.4840,
+      "Total": 94.4521
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "高品质无源器件 12dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 32.0148,
+      "Total": 64.0300
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "高品质无源器件 200W负载（产品编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 215.2002,
+      "Total": 215.2000
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "25dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 23.5500,
+      "Total": 31471.2200
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "1/2\"超柔阻燃1米跳线",
+      "Specifications": "N阳头转N阳头",
+      "Company": "根",
+      "Number": 20,
+      "Price": 100.0000,
+      "Total": 2000.0000
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "高品质无源器件 7dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.4066,
+      "Total": 32.4066
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "空开",
+      "Specifications": "正泰、10A、单联",
+      "Company": "个",
+      "Number": 1,
+      "Price": 18.0000,
+      "Total": 18.0000
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "TIAO跳线",
+      "Company": "根",
+      "Number": 20,
+      "Price": 100.0000,
+      "Total": 2000.0000
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "1/2\"超柔阻燃1米跳线",
+      "Specifications": "N阳头转N阳头",
+      "Company": "根",
+      "Number": 20,
+      "Price": 100.0000,
+      "Total": 2000.0000
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "全向吸顶天线",
+      "Specifications": "TQI-QY-0806-0960/1710-2500-360-05",
+      "Company": "副",
+      "Number": 91,
+      "Price": 32.9300,
+      "Total": 2996.6300
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "高品质无源器件 12dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 32.0148,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "宽频 对数周期天线",
+      "Company": "副",
+      "Number": 7,
+      "Price": 68.0300,
+      "Total": 476.2100
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "7/8馈线",
+      "Specifications": "普通",
+      "Company": "米",
+      "Number": 795,
+      "Price": 25.6400,
+      "Total": 20383.8000
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "30dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 23.8700,
+      "Total": 755.3100
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "馈线 1/2\"普通阻燃馈线（产品编码）",
+      "Company": "米",
+      "Number": 130,
+      "Price": 12.2000,
+      "Total": 1586.0000
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "空开箱",
+      "Specifications": "200mm*200mm*1O0mm",
+      "Company": "个",
+      "Number": 1,
+      "Price": 12.0000,
+      "Total": 12.0000
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "1/2馈线",
+      "Company": "米",
+      "Number": 130,
+      "Price": 12.2000,
+      "Total": 1586.0000
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "高品质无源器件 15dB耦合器",
+      "Company": "个",
+      "Number": 155,
+      "Price": 32.4082,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "1/2\"超柔阻燃1米跳线",
+      "Specifications": "N阳头转N阳头",
+      "Company": "根",
+      "Number": 60,
+      "Price": 100.0000,
+      "Total": 6000.0000
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "高品质无源器件 200W电桥（产品编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 115.4023,
+      "Total": 115.4023
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "馈线 1/2\"普通阻燃馈线（产品编码）",
+      "Company": "米",
+      "Number": 130,
+      "Price": 12.2000,
+      "Total": 1586.0000
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "馈线 1/2\"普通阻燃馈线（产品编码）",
+      "Company": "米",
+      "Number": 130,
+      "Price": 12.2000,
+      "Total": 1586.0000
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "高品质合路器 GSM&DCS/TD(A&F)/TDE双频合路器（三入一出）（产品编码）",
+      "Company": "个",
+      "Number": 2,
+      "Price": 300.1047,
+      "Total": 600.2100
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "高品质无源器件 15dB耦合器",
+      "Company": "个",
+      "Number": 3,
+      "Price": 32.4082,
+      "Total": 97.2200
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "定向吸顶天线",
+      "Specifications": "TQI-DF-0806-0960/1710-2500-115-06",
+      "Company": "副",
+      "Number": 110,
+      "Price": 29.9160,
+      "Total": 3290.7600
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "馈线连接器  1/2\"N型公头（产品编码）",
+      "Company": "个",
+      "Number": 76,
+      "Price": 6.9440,
+      "Total": 527.7407
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "高品质无源器件 8dB耦合器",
+      "Company": "个",
+      "Number": 3,
+      "Price": 32.2825,
+      "Total": 96.8475
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "小计（一）",
+      "Total": 12736.4565
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "馈线  7/8\"普通阻燃馈线（产品编码）",
+      "Company": "米",
+      "Number": 505,
+      "Price": 25.8000,
+      "Total": 13029.0000
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "镀锌管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 20,
+      "Price": 8.0000,
+      "Total": 160.0000
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "馈线连接器  7/8\"N型公头（产品编码）",
+      "Company": "个",
+      "Number": 36,
+      "Price": 14.8643,
+      "Total": 535.1149
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "馈线  7/8\"普通阻燃馈线（产品编码）",
+      "Company": "米",
+      "Number": 505,
+      "Price": 25.8000,
+      "Total": 13029.0000
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "7/8馈线",
+      "Company": "米",
+      "Number": 505,
+      "Price": 25.8000,
+      "Total": 13029.0000
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "全向单极化吸顶天线宽频（低频2dBi高频4dBi）（产品编码）",
+      "Company": "副",
+      "Number": 48,
+      "Price": 23.5909,
+      "Total": 1132.3600
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "定向壁挂天线",
+      "Specifications": "TDI-BG-0806-0960/1710-2500-090-08",
+      "Company": "副",
+      "Number": 4,
+      "Price": 47.9700,
+      "Total": 191.8800
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "40dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 23.3100,
+      "Total": 31.4700
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "高品质无源器件 20dB耦合器",
+      "Company": "个",
+      "Number": 80,
+      "Price": 31.7728,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "馈线  7/8\"普通阻燃馈线（产品编码）",
+      "Company": "米",
+      "Number": 505,
+      "Price": 25.8000,
+      "Total": 13029.0000
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "电表",
+      "Specifications": "得力西、10A",
+      "Company": "个",
+      "Number": 1,
+      "Price": 80.0000,
+      "Total": 80.0000
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "高品质无源器件 10dB耦合器",
+      "Company": "个",
+      "Number": 3,
+      "Price": 31.4840,
+      "Total": 94.4521
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "高品质无源器件 200W电桥（产品编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 115.4023,
+      "Total": 115.4000
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "高品质无源器件 200W负载（产品编码）",
+      "Company": "个",
+      "Number": 2,
+      "Price": 215.2002,
+      "Total": 430.4005
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "采购及保管费",
+      "Specifications": "（器材原价 × 0.82%）",
+      "Total": 104.4389
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "高品质合路器 GSM&DCS/TD（A&F&E)双频合路器（两入一出）（产品编码）",
+      "Company": "个",
+      "Number": 3,
+      "Price": 369.0000,
+      "Total": 1107.0000
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "高品质无源器件 200W电桥（产品编码）",
+      "Company": "个",
+      "Number": 14,
+      "Price": 115.4023,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "PVC管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 13,
+      "Price": 3.6000,
+      "Total": 46.8000
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "PVC管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 13,
+      "Price": 3.6000,
+      "Total": 46.8000
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "PVC管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 13,
+      "Price": 3.6000,
+      "Total": 46.8000
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "运杂费",
+      "Specifications": "（器材原价×2.8%）",
+      "Total": 356.6208
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "宽频 对数周期天线",
+      "Company": "副",
+      "Number": 2,
+      "Price": 68.0300,
+      "Total": 136.0600
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "对数周期天线",
+      "Specifications": "TDO-DS-0806-0960/1710-2500-090-09",
+      "Company": "副",
+      "Number": 14,
+      "Price": 55.9940,
+      "Total": 783.9160
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "高品质无源器件 200W负载（产品编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 215.2002,
+      "Total": 215.2000
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "光跳纤LC-LC-10M（产品编码）",
+      "Company": "根",
+      "Number": 4,
+      "Price": 8.4262,
+      "Total": 33.7046
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "镀锌管",
+      "Specifications": "Φ40mm",
+      "Company": "米",
+      "Number": 60,
+      "Price": 12.0000,
+      "Total": 720.0000
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "馈线连接器  1/2\"N型直角弯头(N型公头转N型母头）（产品编码）",
+      "Company": "个",
+      "Number": 49,
+      "Price": 7.2089,
+      "Total": 353.2381
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "高品质无源器件 12dB耦合器",
+      "Company": "个",
+      "Number": 9,
+      "Price": 32.0148,
+      "Total": 288.1332
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "PVC管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 13,
+      "Price": 3.6000,
+      "Total": 46.8000
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "3dB电桥(100W)",
+      "Company": "个",
+      "Number": 1,
+      "Price": 53.9600,
+      "Total": 314.7100
+    },
+    {
+      "MaterialName": "小计（器材原价）",
+      "Total": 3134.8400
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "PVC管",
+      "Specifications": "Φ50mm",
+      "Company": "米",
+      "Number": 50,
+      "Price": 7.5000,
+      "Total": 375.0000
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "PVC管",
+      "Specifications": "Φ50mm",
+      "Company": "米",
+      "Number": 50,
+      "Price": 7.5000,
+      "Total": 375.0000
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "托盘",
+      "Specifications": "贴墙式",
+      "Company": "个",
+      "Number": 30,
+      "Price": 22.0000,
+      "Total": 660.0000
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "室内全向单极化吸顶天线\\800～2500MHz",
+      "Company": "副",
+      "Number": 155,
+      "Price": 23.5909,
+      "Total": 3656.5891
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "3dB电桥(200W)",
+      "Company": "个",
+      "Number": 1,
+      "Price": 74.8900,
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "ODF架",
+      "Specifications": "（常州太平）24芯终端盒GPX28-24芯",
+      "Company": "套",
+      "Number": 8,
+      "Price": 530.0000,
+      "Total": 4240.0000
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "PVC管",
+      "Specifications": "Φ50mm",
+      "Company": "米",
+      "Number": 50,
+      "Price": 7.5000,
+      "Total": 375.0000
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "高品质合路器 GSM&DCS/TD（A&F&E)双频合路器（两入一出）（产品编码）",
+      "Company": "个",
+      "Number": 32,
+      "Price": 369.0000,
+      "Total": 11808.0000
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "运输保险费",
+      "Specifications": "（器材原价×0.4%）",
+      "Total": 50.9458
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "24芯终端盒LC（产品编码）",
+      "Company": "套",
+      "Number": 2,
+      "Price": 544.5632,
+      "Total": 1089.1264
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "高品质合路器 GSM&DCS/TD（A&F&E)双频合路器（两入一出）（产品编码）",
+      "Company": "个",
+      "Number": 3,
+      "Price": 369.0000,
+      "Total": 1107.0000
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "PVC管",
+      "Specifications": "Φ50mm",
+      "Company": "米",
+      "Number": 50,
+      "Price": 7.5000,
+      "Total": 375.0000
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "二功分器",
+      "Company": "个",
+      "Number": 14,
+      "Price": 21.7486,
+      "Total": 304.4804
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "高品质无源器件 15dB耦合器",
+      "Company": "个",
+      "Number": 9,
+      "Price": 32.4082,
+      "Total": 291.6738
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "三功分器",
+      "Company": "个",
+      "Number": 9,
+      "Price": 22.7830,
+      "Total": 205.0472
+    },
+    {
+      "MaterialName": "(1).小计",
+      "Total": 19541.3260
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "PVC穿线软管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 2,
+      "Price": 5.0000,
+      "Total": 10.0000
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "PVC穿线软管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 2,
+      "Price": 5.0000,
+      "Total": 10.0000
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "高品质合路器 GSM&DCS/TD（A&F&E)双频合路器（两入一出）（产品编码）",
+      "Company": "个",
+      "Number": 4,
+      "Price": 369.0000,
+      "Total": 1476.0000
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "空开",
+      "Specifications": "正泰、10A、单联",
+      "Company": "个",
+      "Number": 1,
+      "Price": 18.0000,
+      "Total": 18.0000
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "GSM/DCS二路输入一路输出",
+      "Company": "个",
+      "Number": 1,
+      "Price": 143.3300,
+      "Total": 789574.6900
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "PVC穿线软管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 2,
+      "Price": 5.0000,
+      "Total": 10.0000
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "24芯非金属阻燃光缆GYFTZY-24B1.3（产品编码）",
+      "Company": "米",
+      "Number": 10,
+      "Price": 3.6073,
+      "Total": 36.0731
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "合计（一）",
+      "Total": 13248.4621
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "全向单极化吸顶天线宽频（低频2dBi高频4dBi）（产品编码）",
+      "Company": "副",
+      "Number": 83,
+      "Price": 23.5909,
+      "Total": 1958.0445
+    },
+    {
+      "MaterialName": "[1].采购及保管费（器材原价 × 0.82%）",
+      "Total": 25.7100
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "PVC穿线软管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 2,
+      "Price": 5.0000,
+      "Total": 10.0000
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "定向单极化壁挂天线宽频（低频90°6.5dBi高频75°8dBi）（产品编码）",
+      "Company": "副",
+      "Number": 7,
+      "Price": 47.5976,
+      "Total": 333.1829
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "全向单极化吸顶天线宽频（低频2dBi高频4dBi）（产品编码）",
+      "Company": "副",
+      "Number": 196,
+      "Price": 23.5909,
+      "Total": 4623.8200
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "5dB耦合器",
+      "Company": "个",
+      "Number": 5,
+      "Price": 22.8396,
+      "Total": 114.1982
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "PVC穿线软管",
+      "Specifications": "Φ40mm",
+      "Company": "米",
+      "Number": 5,
+      "Price": 8.0000,
+      "Total": 40.0000
+    },
+    {
+      "MaterialName": "[2].运杂费（器材原价 × 0.80%）",
+      "Total": 25.0800
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "定向单极化壁挂天线宽频（低频90°6.5dBi高频75°8dBi）（产品编码）",
+      "Company": "副",
+      "Number": 1017,
+      "Price": 47.5976,
+      "Total": 48406.7101
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "定向单极化对数周期天线宽频（低频85°8.5dBi高频75°9dBi）（产品编码）",
+      "Company": "副",
+      "Number": 12,
+      "Price": 58.4344,
+      "Total": 701.2132
+    },
+    {
+      "MaterialName": "(2).采购及保管费",
+      "Specifications": "(1)×0.82%",
+      "Total": 160.2389
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "PVC穿线软管",
+      "Specifications": "Φ40mm",
+      "Company": "米",
+      "Number": 5,
+      "Price": 8.0000,
+      "Total": 40.0000
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "GSM/WLAN二路输入一路输出",
+      "Company": "个",
+      "Number": 1,
+      "Price": 146.4900,
+      "Total": 66.0000
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "宽频 对数周期天线",
+      "Company": "副",
+      "Number": 6,
+      "Price": 68.0300,
+      "Total": 408.1800
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "PVC穿线软管",
+      "Specifications": "Φ40mm",
+      "Company": "米",
+      "Number": 5,
+      "Price": 8.0000,
+      "Total": 40.0000
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "全向单极化吸顶天线宽频（低频2dBi高频4dBi）（产品编码）",
+      "Company": "副",
+      "Number": 156,
+      "Price": 23.5909,
+      "Total": 3680.1800
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "空开箱",
+      "Specifications": "200mm*200mm*1O0mm",
+      "Company": "个",
+      "Number": 1,
+      "Price": 12.0000,
+      "Total": 12.0000
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "1/2电缆",
+      "Specifications": "1/2”普通阻燃",
+      "Company": "米",
+      "Number": 496,
+      "Price": 11.7400,
+      "Total": 5823.0400
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "馈线 1/2\"普通阻燃馈线（产品编码）",
+      "Company": "米",
+      "Number": 350,
+      "Price": 12.2028,
+      "Total": 4270.9909
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "PVC穿线软管",
+      "Specifications": "Φ40mm",
+      "Company": "米",
+      "Number": 5,
+      "Price": 8.0000,
+      "Total": 40.0000
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "电表",
+      "Specifications": "得力西、10A",
+      "Company": "个",
+      "Number": 1,
+      "Price": 80.0000,
+      "Total": 80.0000
+    },
+    {
+      "MaterialName": "小计（器材原价）",
+      "Total": 10366.4000
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "GSM&DCS/WLAN二路输入一路输出",
+      "Company": "个",
+      "Number": 1,
+      "Price": 162.1500,
+      "Total": 68.0000
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "定向单极化壁挂天线宽频（低频90°6.5dBi高频75°8dBi）（产品编码）",
+      "Company": "副",
+      "Number": 18,
+      "Price": 47.5976,
+      "Total": 856.7559
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "6dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.7137,
+      "Total": 45.4274
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "7/8电缆",
+      "Specifications": "7/8”普通阻燃",
+      "Company": "米",
+      "Number": 3566,
+      "Price": 25.6400,
+      "Total": 91432.2400
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "托盘",
+      "Specifications": "贴墙式",
+      "Company": "个",
+      "Number": 13,
+      "Price": 22.0000,
+      "Total": 286.0000
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "托盘",
+      "Specifications": "贴墙式",
+      "Company": "个",
+      "Number": 13,
+      "Price": 22.0000,
+      "Total": 286.0000
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "托盘",
+      "Specifications": "贴墙式",
+      "Company": "个",
+      "Number": 13,
+      "Price": 22.0000,
+      "Total": 286.0000
+    },
+    {
+      "MaterialName": "(3).运输保险费",
+      "Specifications": "(1)×0.40%",
+      "Total": 78.1653
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "馈线  7/8\"普通阻燃馈线（产品编码）",
+      "Company": "米",
+      "Number": 300,
+      "Price": 25.8023,
+      "Total": 7740.6958
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "1/2\"超柔阻燃1米跳线",
+      "Specifications": "N阳头转N阳头",
+      "Company": "根",
+      "Number": 149,
+      "Price": 100.0000,
+      "Total": 14900.0000
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "1/2\"超柔阻燃1米跳线",
+      "Specifications": "N阳头转N阳头",
+      "Company": "根",
+      "Number": 1308,
+      "Price": 100.0000,
+      "Total": 130800.0000
+    },
+    {
+      "MaterialName": "[3].运输保险费（器材原价 × 0.40%）",
+      "Total": 12.5400
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "托盘",
+      "Specifications": "贴墙式",
+      "Company": "个",
+      "Number": 13,
+      "Price": 22.0000,
+      "Total": 286.0000
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "5W衰减器(3dB)",
+      "Company": "个",
+      "Number": 1,
+      "Price": 42.8600
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "宽频 对数周期天线",
+      "Company": "副",
+      "Number": 24,
+      "Price": 68.0300,
+      "Total": 1632.7200
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "馈线卡 7/8\"单联馈线卡（沿墙型）（产品编码）",
+      "Company": "个",
+      "Number": 30,
+      "Price": 2.9913,
+      "Total": 89.7379
+    },
+    {
+      "MaterialName": "[4].采购代理服务费",
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "馈线吊杆",
+      "Company": "根",
+      "Number": 113,
+      "Price": 10.0000,
+      "Total": 1130.0000
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "馈线连接器",
+      "Specifications": "1/2\"N型公头",
+      "Company": "个",
+      "Number": 44,
+      "Price": 6.9440,
+      "Total": 305.5341
+    },
+    {
+      "MaterialName": "[1].采购及保管费（器材原价 × 0.82%）",
+      "Total": 85.0000
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "馈线连接器  1/2\"N型公头（产品编码）",
+      "Company": "个",
+      "Number": 20,
+      "Price": 6.9400,
+      "Total": 138.8000
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "馈线连接器  1/2\"N型公头（产品编码）",
+      "Company": "个",
+      "Number": 20,
+      "Price": 6.9400,
+      "Total": 138.8000
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "馈线连接器  1/2\"N型公头（产品编码）",
+      "Company": "个",
+      "Number": 20,
+      "Price": 6.9400,
+      "Total": 138.8000
+    },
+    {
+      "MaterialName": "(4).运杂费",
+      "Specifications": "(1)×0.8%",
+      "Total": 156.3306
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "7dB耦合器",
+      "Company": "个",
+      "Number": 3,
+      "Price": 22.7564,
+      "Total": 68.2691
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "1/2接头",
+      "Company": "个",
+      "Number": 20,
+      "Price": 6.9400,
+      "Total": 138.8000
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "馈线吊杆",
+      "Company": "根",
+      "Number": 950,
+      "Price": 10.0000,
+      "Total": 9500.0000
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "馈线连接器  1/2\"N型公头（产品编码）",
+      "Company": "个",
+      "Number": 26,
+      "Price": 6.9440,
+      "Total": 180.5429
+    },
+    {
+      "MaterialName": "小计",
+      "Total": 3198.1700
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "馈线 1/2\"普通阻燃馈线（产品编码）",
+      "Company": "米",
+      "Number": 1155,
+      "Price": 12.2028,
+      "Total": 14094.2700
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "7/8接头",
+      "Company": "个",
+      "Number": 74,
+      "Price": 14.8600,
+      "Total": 1099.6400
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "5W衰减器(6dB)",
+      "Company": "个",
+      "Number": 1,
+      "Price": 41.7500
+    },
+    {
+      "MaterialName": "[2].运杂费（器材原价 × 2.20%）",
+      "Total": 228.0600
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "馈线连接器  7/8\"N型公头（产品编码）",
+      "Company": "个",
+      "Number": 74,
+      "Price": 14.8600,
+      "Total": 1099.6400
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "天线支架",
+      "Company": "根",
+      "Number": 42,
+      "Price": 10.0000,
+      "Total": 420.0000
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "1/2\"超柔阻燃1米跳线",
+      "Specifications": "N阳头转N阴头",
+      "Company": "根",
+      "Number": 126,
+      "Price": 100.0000,
+      "Total": 12600.0000
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "天线支架",
+      "Company": "根",
+      "Number": 8,
+      "Price": 10.0000,
+      "Total": 80.0000
+    },
+    {
+      "MaterialName": "总  计",
+      "Total": 19936.0600
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "馈线连接器",
+      "Specifications": "7/8\"N型公头",
+      "Company": "个",
+      "Number": 112,
+      "Price": 14.8643,
+      "Total": 1664.8019
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "馈线连接器  7/8\"N型公头（产品编码）",
+      "Company": "个",
+      "Number": 74,
+      "Price": 14.8600,
+      "Total": 1099.6400
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "馈线连接器  7/8\"N型公头（产品编码）",
+      "Company": "个",
+      "Number": 16,
+      "Price": 14.8643,
+      "Total": 237.8288
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "馈线连接器  7/8\"N型公头（产品编码）",
+      "Company": "个",
+      "Number": 74,
+      "Price": 14.8600,
+      "Total": 1099.6400
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "8dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 22.8296,
+      "Total": 45.6593
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "光缆",
+      "Specifications": "24芯室外非金属阻燃",
+      "Company": "米",
+      "Number": 1065,
+      "Price": 5.1500,
+      "Total": 5484.7500
+    },
+    {
+      "Sequence": 22,
+      "MaterialName": "馈线连接器  1/2\"N型直角弯头(N型公头转N型母头）（产品编码）",
+      "Company": "个",
+      "Number": 20,
+      "Price": 7.2089,
+      "Total": 144.1788
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "馈线连接器  1/2\" N型双阳头（产品编码）",
+      "Company": "个",
+      "Number": 12,
+      "Price": 5.0800,
+      "Total": 60.9600
+    },
+    {
+      "Sequence": 22,
+      "MaterialName": "馈线吊杆",
+      "Company": "根",
+      "Number": 300,
+      "Price": 10.0000,
+      "Total": 3000.0000
+    },
+    {
+      "Sequence": 22,
+      "MaterialName": "天线吊杆",
+      "Company": "根",
+      "Number": 42,
+      "Price": 10.0000,
+      "Total": 420.0000
+    },
+    {
+      "Sequence": 22,
+      "MaterialName": "馈线连接器  1/2\" N型双阳头（产品编码）",
+      "Company": "个",
+      "Number": 12,
+      "Price": 5.0800,
+      "Total": 60.9600
+    },
+    {
+      "MaterialName": "合计",
+      "Total": 3198.1700
+    },
+    {
+      "Sequence": 22,
+      "MaterialName": "馈线  7/8\"普通阻燃馈线（产品编码）",
+      "Company": "米",
+      "Number": 1280,
+      "Price": 25.8023,
+      "Total": 33026.9689
+    },
+    {
+      "Sequence": 22,
+      "MaterialName": "5W衰减器(10dB)",
+      "Company": "个",
+      "Number": 1,
+      "Price": 41.4100
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "馈线连接器  1/2\" N型双阳头（产品编码）",
+      "Company": "个",
+      "Number": 12,
+      "Price": 5.0800,
+      "Total": 60.9600
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "馈线连接器  1/2\" N型双阳头（产品编码）",
+      "Company": "个",
+      "Number": 12,
+      "Price": 5.0800,
+      "Total": 60.9600
+    },
+    {
+      "Sequence": 22,
+      "MaterialName": "天线吊杆",
+      "Company": "根",
+      "Number": 8,
+      "Price": 10.0000,
+      "Total": 80.0000
+    },
+    {
+      "Sequence": 22,
+      "MaterialName": "1/2\"超柔阻燃1米跳线",
+      "Specifications": "'N阳头转N阳头",
+      "Company": "条",
+      "Number": 48,
+      "Price": 100.0000,
+      "Total": 4800.0000
+    },
+    {
+      "Sequence": 22,
+      "MaterialName": "10dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.8482,
+      "Total": 22.8482
+    },
+    {
+      "MaterialName": "[3].运输保险费（器材原价 × 0.40%）",
+      "Total": 41.4700
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "48芯非金属阻燃光缆GYFTZY-48B1.3（产品编码）",
+      "Company": "米",
+      "Number": 10,
+      "Price": 6.2503,
+      "Total": 62.5000
+    },
+    {
+      "Sequence": 23,
+      "MaterialName": "天线支架",
+      "Company": "根",
+      "Number": 174,
+      "Price": 10.0000,
+      "Total": 1740.0000
+    },
+    {
+      "MaterialName": "合计",
+      "Total": 20896.7700
+    },
+    {
+      "Sequence": 23,
+      "MaterialName": "5W衰减器(15dB)",
+      "Company": "个",
+      "Number": 1,
+      "Price": 42.6800
+    },
+    {
+      "Sequence": 23,
+      "MaterialName": "馈线连接器  1/2\"N型公头（产品编码）",
+      "Company": "个",
+      "Number": 118,
+      "Price": 6.9440,
+      "Total": 819.3869
+    },
+    {
+      "Sequence": 23,
+      "MaterialName": "PVC线槽",
+      "Specifications": "40mm*60mm",
+      "Company": "米",
+      "Number": 10,
+      "Price": 7.8000,
+      "Total": 78.0000
+    },
+    {
+      "Sequence": 23,
+      "MaterialName": "小计（二）",
+      "Total": 104025.6160
+    },
+    {
+      "MaterialName": "合计",
+      "Total": 20896.7700
+    },
+    {
+      "Sequence": 23,
+      "MaterialName": "PVC管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 85,
+      "Price": 3.6000,
+      "Total": 306.0000
+    },
+    {
+      "Sequence": 23,
+      "MaterialName": "高品质无源器件 二功分器（腔体）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 31.6771,
+      "Total": 31.6771
+    },
+    {
+      "MaterialName": "合计",
+      "Total": 16050.0309
+    },
+    {
+      "MaterialName": "[4].采购代理服务费",
+      "Total": 0.0000
+    },
+    {
+      "MaterialName": "合计",
+      "Total": 20864.4900
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "1/2\"跳线",
+      "Specifications": "N阳头转N阳头",
+      "Company": "根",
+      "Number": 178,
+      "Price": 100.0000,
+      "Total": 17800.0000
+    },
+    {
+      "MaterialName": "合计",
+      "Total": 20896.7700
+    },
+    {
+      "Sequence": 24,
+      "MaterialName": "25W衰减器(3dB)",
+      "Company": "个",
+      "Number": 1,
+      "Price": 63.9000
+    },
+    {
+      "Sequence": 24,
+      "MaterialName": "采购及保管费",
+      "Specifications": "（器材原价 ×1%）",
+      "Total": 1040.2562
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "7/8\"馈线",
+      "Specifications": "普通阻燃",
+      "Company": "米",
+      "Number": 3885,
+      "Price": 19.4800,
+      "Total": 75679.8000
+    },
+    {
+      "Sequence": 24,
+      "MaterialName": "金属穿线软管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 70,
+      "Price": 6.0000,
+      "Total": 420.0000
+    },
+    {
+      "Sequence": 24,
+      "MaterialName": "馈线连接器  7/8\"N型公头（产品编码）",
+      "Company": "个",
+      "Number": 76,
+      "Price": 14.8643,
+      "Total": 1129.6870
+    },
+    {
+      "Sequence": 24,
+      "MaterialName": "天线吊杆",
+      "Company": "根",
+      "Number": 39,
+      "Price": 10.0000,
+      "Total": 390.0000
+    },
+    {
+      "Sequence": 24,
+      "MaterialName": "PVC管",
+      "Specifications": "Φ50mm",
+      "Company": "米",
+      "Number": 403,
+      "Price": 7.5000,
+      "Total": 3022.5000
+    },
+    {
+      "MaterialName": "小计",
+      "Total": 10720.9300
+    },
+    {
+      "MaterialName": "小计1（器材原价）",
+      "Total": 62.5000
+    },
+    {
+      "Sequence": 24,
+      "MaterialName": "高品质无源器件 6dB耦合器",
+      "Company": "个",
+      "Number": 2,
+      "Price": 32.7892,
+      "Total": 65.5783
+    },
+    {
+      "Sequence": 25,
+      "MaterialName": "金属穿线软管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 6.0000,
+      "Total": 6.0000
+    },
+    {
+      "Sequence": 25,
+      "MaterialName": "运杂费",
+      "Specifications": "（器材原价 ×3.8%）",
+      "Total": 3952.9734
+    },
+    {
+      "Sequence": 25,
+      "MaterialName": "25W衰减器(6dB)",
+      "Company": "个",
+      "Number": 1,
+      "Price": 75.7600
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "电源线",
+      "Specifications": "ZA-RVV-3*2.5",
+      "Company": "米",
+      "Number": 40,
+      "Price": 7.0000,
+      "Total": 280.0000
+    },
+    {
+      "Sequence": 25,
+      "MaterialName": "高品质无源器件 7dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.4066,
+      "Total": 32.4066
+    },
+    {
+      "MaterialName": "合计",
+      "Total": 10720.9300
+    },
+    {
+      "MaterialName": "[1].运杂费（器材原价 × 1.00%）",
+      "Total": 0.6300
+    },
+    {
+      "Sequence": 25,
+      "MaterialName": "金属穿线软管",
+      "Specifications": "Φ40mm",
+      "Company": "米",
+      "Number": 180,
+      "Price": 9.0000,
+      "Total": 1620.0000
+    },
+    {
+      "Sequence": 25,
+      "MaterialName": "馈线连接器  1/2\"N型直角弯头(N型公头转N型母头）（产品编码）",
+      "Company": "个",
+      "Number": 78,
+      "Price": 7.2089,
+      "Total": 562.2974
+    },
+    {
+      "Sequence": 25,
+      "MaterialName": "PVC管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 1700,
+      "Price": 3.6000,
+      "Total": 6120.0000
+    },
+    {
+      "Sequence": 26,
+      "MaterialName": "25W衰减器(10dB)",
+      "Company": "个",
+      "Number": 1,
+      "Price": 63.5000
+    },
+    {
+      "Sequence": 26,
+      "MaterialName": "运输保险费",
+      "Specifications": "（器材原价 × 0.1%）",
+      "Total": 104.0256
+    },
+    {
+      "Sequence": 1,
+      "MaterialName": "光跳纤SC-LC-10M（产品编码）",
+      "Company": "根",
+      "Number": 4,
+      "Price": 8.8400,
+      "Total": 35.3600
+    },
+    {
+      "MaterialName": "合计",
+      "Total": 61476.7888
+    },
+    {
+      "Sequence": 26,
+      "MaterialName": "高品质无源器件 200W电桥（产品编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 115.4023,
+      "Total": 115.4023
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "地线",
+      "Specifications": "ZA-RVV-1×16MM",
+      "Company": "米",
+      "Number": 40,
+      "Price": 12.0000,
+      "Total": 480.0000
+    },
+    {
+      "Sequence": 26,
+      "MaterialName": "镀锌管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 260,
+      "Price": 8.0000,
+      "Total": 2080.0000
+    },
+    {
+      "Sequence": 26,
+      "MaterialName": "PVC管",
+      "Specifications": "Φ40mm",
+      "Company": "米",
+      "Number": 200,
+      "Price": 7.5000,
+      "Total": 1500.0000
+    },
+    {
+      "MaterialName": "[2].运输保险费（器材原价 × 0.10%）",
+      "Total": 0.0600
+    },
+    {
+      "Sequence": 26,
+      "MaterialName": "金属穿线软管",
+      "Specifications": "Φ40mm",
+      "Company": "米",
+      "Number": 8,
+      "Price": 9.0000,
+      "Total": 72.0000
+    },
+    {
+      "Sequence": 27,
+      "MaterialName": "合计（二）",
+      "Total": 109122.8711
+    },
+    {
+      "Sequence": 22,
+      "MaterialName": "馈线卡",
+      "Specifications": "7/8”单联（沿墙型）",
+      "Company": "个",
+      "Number": 200,
+      "Price": 4.1900,
+      "Total": 838.0000
+    },
+    {
+      "Sequence": 27,
+      "MaterialName": "金属穿线软管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 100,
+      "Price": 6.0000,
+      "Total": 600.0000
+    },
+    {
+      "Sequence": 27,
+      "MaterialName": "25W衰减器(15dB)",
+      "Company": "个",
+      "Number": 1,
+      "Price": 74.7600
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "48芯非金属阻燃光缆GYFTZY-48B1.3（产品编码）",
+      "Company": "米",
+      "Number": 110,
+      "Price": 6.2503,
+      "Total": 687.5300
+    },
+    {
+      "Sequence": 27,
+      "MaterialName": "镀锌管",
+      "Specifications": "Φ40mm",
+      "Company": "米",
+      "Number": 700,
+      "Price": 12.0000,
+      "Total": 8400.0000
+    },
+    {
+      "Sequence": 27,
+      "MaterialName": "PVC穿线软管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 5,
+      "Price": 5.0000,
+      "Total": 25.0000
+    },
+    {
+      "MaterialName": "[3].采购保管费（器材原价 × 1.00%）",
+      "Total": 0.6300
+    },
+    {
+      "Sequence": 27,
+      "MaterialName": "高品质无源器件 200W负载（产品编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 215.2002,
+      "Total": 215.2002
+    },
+    {
+      "MaterialName": "[4].采购代理服务费",
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 28,
+      "MaterialName": "PVC穿线软管",
+      "Specifications": "Φ40mm",
+      "Company": "米",
+      "Number": 21,
+      "Price": 8.0000,
+      "Total": 168.0000
+    },
+    {
+      "Sequence": 28,
+      "MaterialName": "托盘",
+      "Specifications": "贴墙式",
+      "Company": "个",
+      "Number": 450,
+      "Price": 22.0000,
+      "Total": 9900.0000
+    },
+    {
+      "Sequence": 28,
+      "MaterialName": "50W衰减器(3dB)",
+      "Company": "个",
+      "Number": 1,
+      "Price": 91.0000
+    },
+    {
+      "Sequence": 28,
+      "MaterialName": "高品质合路器 GSM&DCS/TD(A&F)/TDE双频合路器（三入一出）（产品编码）",
+      "Company": "个",
+      "Number": 2,
+      "Price": 300.1047,
+      "Total": 600.2093
+    },
+    {
+      "Sequence": 28,
+      "MaterialName": "PVC穿线软管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 300,
+      "Price": 5.0000,
+      "Total": 1500.0000
+    },
+    {
+      "Sequence": 28,
+      "MaterialName": "尾纤",
+      "Specifications": "5M",
+      "Company": "根",
+      "Number": 2,
+      "Price": 15.0000,
+      "Total": 30.0000
+    },
+    {
+      "Sequence": 23,
+      "MaterialName": "7/8N型公头",
+      "Specifications": "N型接头7/8\"",
+      "Company": "个",
+      "Number": 540,
+      "Price": 12.5000,
+      "Total": 6750.0000
+    },
+    {
+      "MaterialName": "小计1（器材原价）",
+      "Total": 722.8900
+    },
+    {
+      "Sequence": 29,
+      "MaterialName": "50W衰减器(6dB)",
+      "Company": "个",
+      "Number": 1,
+      "Price": 97.3100
+    },
+    {
+      "Sequence": 24,
+      "MaterialName": "直角转接头",
+      "Specifications": "直角弯头1/2\" (NM-1/2\"NF)",
+      "Company": "个",
+      "Number": 122,
+      "Price": 15.0000,
+      "Total": 1830.0000
+    },
+    {
+      "Sequence": 29,
+      "MaterialName": "空开",
+      "Specifications": "正泰、10A、单联",
+      "Company": "个",
+      "Number": 30,
+      "Price": 18.0000,
+      "Total": 540.0000
+    },
+    {
+      "MaterialName": "小计1",
+      "Total": 63.8200
+    },
+    {
+      "Sequence": 29,
+      "MaterialName": "镀锌管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 20,
+      "Price": 8.0000,
+      "Total": 160.0000
+    },
+    {
+      "Sequence": 29,
+      "MaterialName": "全向单极化吸顶天线宽频（低频2dBi高频4dBi）（产品编码）",
+      "Company": "副",
+      "Number": 48,
+      "Price": 23.5909,
+      "Total": 1132.3631
+    },
+    {
+      "MaterialName": "[1].运杂费（器材原价 × 2.40%）",
+      "Total": 17.3500
+    },
+    {
+      "Sequence": 29,
+      "MaterialName": "PVC穿线软管",
+      "Specifications": "Φ40mm",
+      "Company": "米",
+      "Number": 200,
+      "Price": 8.0000,
+      "Total": 1600.0000
+    },
+    {
+      "Sequence": 29,
+      "MaterialName": "小计（三）",
+      "Total": 30.0000
+    },
+    {
+      "Sequence": 30,
+      "MaterialName": "采购及保管费",
+      "Specifications": "（器材原价 ×1%）",
+      "Total": 0.3000
+    },
+    {
+      "Sequence": 25,
+      "MaterialName": "托盘",
+      "Specifications": "贴墙式",
+      "Company": "个",
+      "Number": 110,
+      "Price": 22.0000,
+      "Total": 2420.0000
+    },
+    {
+      "Sequence": 30,
+      "MaterialName": "宽频 对数周期天线",
+      "Company": "副",
+      "Number": 2,
+      "Price": 68.0300,
+      "Total": 136.0600
+    },
+    {
+      "Sequence": 30,
+      "MaterialName": "镀锌管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 400,
+      "Price": 8.0000,
+      "Total": 3200.0000
+    },
+    {
+      "Sequence": 2,
+      "MaterialName": "1/2\"超柔阻燃1米跳线",
+      "Specifications": "N阳头转N阳头",
+      "Company": "根",
+      "Number": 43,
+      "Price": 100.0000,
+      "Total": 4300.0000
+    },
+    {
+      "Sequence": 30,
+      "MaterialName": "50W衰减器(10dB)",
+      "Company": "个",
+      "Number": 1,
+      "Price": 101.7300
+    },
+    {
+      "Sequence": 30,
+      "MaterialName": "空开箱",
+      "Specifications": "200mm*200mm*1O0mm",
+      "Company": "个",
+      "Number": 30,
+      "Price": 12.0000,
+      "Total": 360.0000
+    },
+    {
+      "Sequence": 30,
+      "MaterialName": "镀锌管",
+      "Specifications": "Φ40mm",
+      "Company": "米",
+      "Number": 150,
+      "Price": 12.0000,
+      "Total": 1800.0000
+    },
+    {
+      "MaterialName": "[2].运输保险费（器材原价 × 0.10%）",
+      "Total": 0.7200
+    },
+    {
+      "MaterialName": "合计",
+      "Total": 44177.1092
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "电源线",
+      "Specifications": "ZA-RVV-3*2.5",
+      "Company": "米",
+      "Number": 20,
+      "Price": 7.0000,
+      "Total": 140.0000
+    },
+    {
+      "Sequence": 31,
+      "MaterialName": "50W衰减器(15dB)",
+      "Company": "个",
+      "Number": 1,
+      "Price": 102.1300
+    },
+    {
+      "Sequence": 31,
+      "MaterialName": "电表",
+      "Specifications": "得力西、10A",
+      "Company": "个",
+      "Number": 30,
+      "Price": 80.0000,
+      "Total": 2400.0000
+    },
+    {
+      "Sequence": 31,
+      "MaterialName": "托盘",
+      "Specifications": "贴墙式",
+      "Company": "个",
+      "Number": 59,
+      "Price": 22.0000,
+      "Total": 1298.0000
+    },
+    {
+      "Sequence": 31,
+      "MaterialName": "运杂费",
+      "Specifications": "（器材原价 ×2.4%）",
+      "Total": 0.7200
+    },
+    {
+      "Sequence": 26,
+      "MaterialName": "空开",
+      "Specifications": "正泰、10A、单联",
+      "Company": "个",
+      "Number": 8,
+      "Price": 18.0000,
+      "Total": 144.0000
+    },
+    {
+      "Sequence": 31,
+      "MaterialName": "托盘",
+      "Specifications": "贴墙式",
+      "Company": "个",
+      "Number": 60,
+      "Price": 22.0000,
+      "Total": 1320.0000
+    },
+    {
+      "MaterialName": "[3].采购保管费（器材原价 × 1.10%）",
+      "Total": 7.9500
+    },
+    {
+      "MaterialName": "[4].采购代理服务费",
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "地线",
+      "Specifications": "ZA-RVV-1×16MM",
+      "Company": "米",
+      "Number": 20,
+      "Price": 12.0000,
+      "Total": 240.0000
+    },
+    {
+      "Sequence": 32,
+      "MaterialName": "光跳纤LC-LC-10M（产品编码）",
+      "Company": "根",
+      "Number": 72,
+      "Price": 8.4262,
+      "Total": 606.6837
+    },
+    {
+      "Sequence": 32,
+      "MaterialName": "空开",
+      "Specifications": "正泰、10A、单联",
+      "Company": "个",
+      "Number": 2,
+      "Price": 18.0000,
+      "Total": 36.0000
+    },
+    {
+      "Sequence": 32,
+      "MaterialName": "空开",
+      "Specifications": "正泰、10A、单联",
+      "Company": "个",
+      "Number": 4,
+      "Price": 18.0000,
+      "Total": 72.0000
+    },
+    {
+      "Sequence": 32,
+      "MaterialName": "负载5W",
+      "Company": "个",
+      "Number": 1,
+      "Price": 30.8200
+    },
+    {
+      "Sequence": 27,
+      "MaterialName": "空开箱",
+      "Specifications": "200mm*200mm*1O0mm",
+      "Company": "个",
+      "Number": 4,
+      "Price": 12.0000,
+      "Total": 48.0000
+    },
+    {
+      "Sequence": 32,
+      "MaterialName": "运输保险费",
+      "Specifications": "（器材原价 × 0.1%）",
+      "Total": 0.0300
+    },
+    {
+      "Sequence": 33,
+      "MaterialName": "空开箱",
+      "Specifications": "200mm*200mm*1O0mm",
+      "Company": "个",
+      "Number": 2,
+      "Price": 12.0000,
+      "Total": 24.0000
+    },
+    {
+      "Sequence": 33,
+      "MaterialName": "24芯终端盒LC（产品编码）",
+      "Company": "套",
+      "Number": 36,
+      "Price": 544.5632,
+      "Total": 19604.2759
+    },
+    {
+      "Sequence": 28,
+      "MaterialName": "电表",
+      "Specifications": "得力西、10A",
+      "Company": "个",
+      "Number": 5,
+      "Price": 80.0000,
+      "Total": 400.0000
+    },
+    {
+      "Sequence": 33,
+      "MaterialName": "合计（三）",
+      "Total": 31.0500
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "1/2馈线",
+      "Specifications": "普通",
+      "Company": "米",
+      "Number": 990,
+      "Price": 11.7400,
+      "Total": 11622.6000
+    },
+    {
+      "MaterialName": "小计1",
+      "Total": 748.9100
+    },
+    {
+      "Sequence": 33,
+      "MaterialName": "负载25W",
+      "Company": "个",
+      "Number": 1,
+      "Price": 64.5800
+    },
+    {
+      "Sequence": 33,
+      "MaterialName": "空开箱",
+      "Specifications": "200mm*200mm*1O0mm",
+      "Company": "个",
+      "Number": 4,
+      "Price": 12.0000,
+      "Total": 48.0000
+    },
+    {
+      "Sequence": 34,
+      "MaterialName": "电表",
+      "Specifications": "得力西、10A",
+      "Company": "个",
+      "Number": 3,
+      "Price": 80.0000,
+      "Total": 240.0000
+    },
+    {
+      "Sequence": 34,
+      "MaterialName": "负载50W",
+      "Company": "个",
+      "Number": 1,
+      "Price": 115.5500
+    },
+    {
+      "Sequence": 34,
+      "MaterialName": "电表",
+      "Specifications": "得力西、10A",
+      "Company": "个",
+      "Number": 2,
+      "Price": 80.0000,
+      "Total": 160.0000
+    },
+    {
+      "Sequence": 34,
+      "MaterialName": "天线支架",
+      "Specifications": "室内吸顶天线支架",
+      "Company": "副",
+      "Number": 74,
+      "Price": 10.0000,
+      "Total": 740.0000
+    },
+    {
+      "Sequence": 34,
+      "MaterialName": "馈线卡 7/8\"单联馈线卡（沿墙型）（产品编码）",
+      "Company": "个",
+      "Number": 1040,
+      "Price": 2.9913,
+      "Total": 3110.9139
+    },
+    {
+      "Sequence": 29,
+      "MaterialName": "防雷插座（五联）",
+      "Specifications": "突破保镖TZ-Y/TA-21(3米电源线10A)",
+      "Company": "个",
+      "Number": 5,
+      "Price": 160.0000,
+      "Total": 800.0000
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "7/8馈线",
+      "Specifications": "普通",
+      "Company": "米",
+      "Number": 795,
+      "Price": 25.6400,
+      "Total": 20383.8000
+    },
+    {
+      "Sequence": 3,
+      "MaterialName": "1/2\"超柔阻燃1米跳线",
+      "Company": "根",
+      "Number": 144,
+      "Price": 100.0000,
+      "Total": 14400.0000
+    },
+    {
+      "Sequence": 35,
+      "MaterialName": "24芯终端盒LC（产品编码）",
+      "Company": "套",
+      "Number": 6,
+      "Price": 544.5632,
+      "Total": 3267.3793
+    },
+    {
+      "Sequence": 35,
+      "MaterialName": "负载200W",
+      "Company": "个",
+      "Number": 1,
+      "Price": 267.3700
+    },
+    {
+      "Sequence": 35,
+      "MaterialName": "器件托盘",
+      "Company": "个",
+      "Number": 11,
+      "Price": 22.0000,
+      "Total": 242.0000
+    },
+    {
+      "Sequence": 35,
+      "MaterialName": "光跳纤LC-LC-10M（产品编码）",
+      "Company": "根",
+      "Number": 8,
+      "Price": 8.4262,
+      "Total": 67.4093
+    },
+    {
+      "Sequence": 4,
+      "MaterialName": "电源线",
+      "Company": "米",
+      "Number": 10,
+      "Price": 7.0000,
+      "Total": 70.0000
+    },
+    {
+      "Sequence": 35,
+      "MaterialName": "24芯非金属阻燃光缆GYFTZY-24B1.3（产品编码）",
+      "Company": "米",
+      "Number": 2420,
+      "Price": 3.6073,
+      "Total": 8729.6803
+    },
+    {
+      "MaterialName": "小计2（器材原价）",
+      "Total": 36686.4000
+    },
+    {
+      "MaterialName": "(1).小计",
+      "Total": 112954.5500
+    },
+    {
+      "MaterialName": "(2).采购保管费",
+      "Specifications": "(1).×1.00%",
+      "Total": 1129.5500
+    },
+    {
+      "Sequence": 36,
+      "MaterialName": "高品质无源器件 二功分器（腔",
+      "Company": "个",
+      "Number": 1,
+      "Price": 31.6800
+    },
+    {
+      "MaterialName": "[1].运杂费（器材原价 × 1.50%）",
+      "Total": 550.3000
+    },
+    {
+      "Sequence": 36,
+      "MaterialName": "PVC管",
+      "Specifications": "Φ25（含管卡，接头，管码等）",
+      "Company": "米",
+      "Number": 100,
+      "Price": 3.6000,
+      "Total": 360.0000
+    },
+    {
+      "Sequence": 5,
+      "MaterialName": "地线",
+      "Company": "米",
+      "Number": 10,
+      "Price": 12.0000,
+      "Total": 120.0000
+    },
+    {
+      "Sequence": 36,
+      "MaterialName": "24芯终端盒LC（产品编码）",
+      "Company": "套",
+      "Number": 4,
+      "Price": 544.5632,
+      "Total": 2178.2529
+    },
+    {
+      "Sequence": 36,
+      "MaterialName": "馈线 1/2\"普通阻燃馈线（产品编码）",
+      "Company": "米",
+      "Number": 600,
+      "Price": 12.2028,
+      "Total": 7321.6987
+    },
+    {
+      "Sequence": 36,
+      "MaterialName": "馈线卡 7/8\"双联馈线卡（沿墙型）（产品编码）",
+      "Company": "个",
+      "Number": 5380,
+      "Price": 3.4443,
+      "Total": 18530.4097
+    },
+    {
+      "MaterialName": "总  计",
+      "Total": 114084.1000
+    },
+    {
+      "Sequence": 37,
+      "MaterialName": "馈线  7/8\"普通阻燃馈线（产品编码）",
+      "Company": "米",
+      "Number": 7000,
+      "Price": 25.8023,
+      "Total": 180616.2360
+    },
+    {
+      "Sequence": 37,
+      "MaterialName": "馈线卡 7/8\"单联馈线卡（沿墙型）（产品编码）",
+      "Company": "个",
+      "Number": 360,
+      "Price": 2.9913,
+      "Total": 1076.8548
+    },
+    {
+      "Sequence": 37,
+      "MaterialName": "高品质无源器件 三功分器（腔",
+      "Company": "个",
+      "Number": 1,
+      "Price": 33.2200
+    },
+    {
+      "Sequence": 37,
+      "MaterialName": "小计",
+      "Total": 1342.0000
+    },
+    {
+      "MaterialName": "[2].运输保险费（器材原价 × 0.10%）",
+      "Total": 36.6900
+    },
+    {
+      "Sequence": 37,
+      "MaterialName": "24芯非金属阻燃光缆GYFTZY-24B1.3（产品编码）",
+      "Company": "米",
+      "Number": 55,
+      "Price": 3.6073,
+      "Total": 198.4018
+    },
+    {
+      "Sequence": 6,
+      "MaterialName": "馈线 1/2\"普通阻燃馈线（产品编码）",
+      "Company": "米",
+      "Number": 3750,
+      "Price": 12.2028,
+      "Total": 45760.6200
+    },
+    {
+      "Sequence": 38,
+      "MaterialName": "采购及保管费",
+      "Specifications": "（器材原价 ×1%）",
+      "Total": 13.4200
+    },
+    {
+      "MaterialName": "合计",
+      "Total": 134020.1600
+    },
+    {
+      "Sequence": 38,
+      "MaterialName": "24芯非金属阻燃光缆GYFTZY-24B1.3（产品编码）",
+      "Company": "米",
+      "Number": 180,
+      "Price": 3.6073,
+      "Total": 649.3151
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "馈线  7/8\"普通阻燃馈线（产品编码）",
+      "Company": "米",
+      "Number": 2360,
+      "Price": 25.8023,
+      "Total": 60893.4700
+    },
+    {
+      "Sequence": 38,
+      "MaterialName": "高品质无源器件 四功分器（腔",
+      "Company": "个",
+      "Number": 1,
+      "Price": 33.3300
+    },
+    {
+      "MaterialName": "[3].采购保管费（器材原价 × 1.00%）",
+      "Total": 366.8600
+    },
+    {
+      "Sequence": 38,
+      "MaterialName": "1/2普通阻燃铜馈线",
+      "Company": "米",
+      "Number": 1710,
+      "Price": 12.2028,
+      "Total": 20866.8413
+    },
+    {
+      "Sequence": 38,
+      "MaterialName": "馈线连接器  1/2\"N型公头（产品编码）",
+      "Company": "个",
+      "Number": 78,
+      "Price": 6.9440,
+      "Total": 541.6286
+    },
+    {
+      "Sequence": 39,
+      "MaterialName": "馈线连接器  7/8\"N型公头（产品编码）",
+      "Company": "个",
+      "Number": 2018,
+      "Price": 14.8643,
+      "Total": 29996.1622
+    },
+    {
+      "Sequence": 39,
+      "MaterialName": "7/8普通阻燃铜馈线",
+      "Company": "米",
+      "Number": 8025,
+      "Price": 25.8023,
+      "Total": 207063.6134
+    },
+    {
+      "Sequence": 39,
+      "MaterialName": "高品质无源器件 5dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 33.4700
+    },
+    {
+      "Sequence": 39,
+      "MaterialName": "馈线 1/2\"普通阻燃馈线（产品编码）",
+      "Company": "米",
+      "Number": 2765,
+      "Price": 12.2028,
+      "Total": 33740.8281
+    },
+    {
+      "MaterialName": "[4].采购代理服务费",
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 39,
+      "MaterialName": "运杂费",
+      "Specifications": "（器材原价 ×9%）",
+      "Total": 120.7800
+    },
+    {
+      "MaterialName": "小计2（器材原价）",
+      "Total": 121244.0900
+    },
+    {
+      "Sequence": 40,
+      "MaterialName": "馈线连接器  1/2\"N型直角弯头(N型公头转N型母头）（产品编码）",
+      "Company": "个",
+      "Number": 1150,
+      "Price": 7.2089,
+      "Total": 8290.2820
+    },
+    {
+      "Sequence": 40,
+      "MaterialName": "高品质无源器件 6dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.7900
+    },
+    {
+      "Sequence": 40,
+      "MaterialName": "馈线  7/8\"普通阻燃馈线（产品编码）",
+      "Company": "米",
+      "Number": 915,
+      "Price": 25.8023,
+      "Total": 23609.1223
+    },
+    {
+      "MaterialName": "[1].运杂费（器材原价 × 3.80%）",
+      "Total": 4607.2800
+    },
+    {
+      "Sequence": 40,
+      "MaterialName": "N型直头公头配1/2馈线连接器",
+      "Company": "个",
+      "Number": 116,
+      "Price": 6.9440,
+      "Total": 805.4990
+    },
+    {
+      "MaterialName": "小计2",
+      "Total": 37640.2500
+    },
+    {
+      "Sequence": 40,
+      "MaterialName": "运输保险费",
+      "Specifications": "（器材原价 × 0.1%）",
+      "Total": 1.3420
+    },
+    {
+      "Sequence": 7,
+      "MaterialName": "托盘",
+      "Specifications": "贴墙式",
+      "Company": "个",
+      "Number": 30,
+      "Price": 22.0000,
+      "Total": 660.0000
+    },
+    {
+      "Sequence": 41,
+      "MaterialName": "7/16转N接头",
+      "Specifications": "DIN转N型接头 (7/16\"DINM-1/2\"NF)",
+      "Company": "个",
+      "Number": 28,
+      "Price": 38.0000,
+      "Total": 1064.0000
+    },
+    {
+      "Sequence": 41,
+      "MaterialName": "高品质无源器件 7dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.4100
+    },
+    {
+      "Sequence": 41,
+      "MaterialName": "馈线连接器  1/2\"N型公头（产品编码）",
+      "Company": "个",
+      "Number": 368,
+      "Price": 6.9440,
+      "Total": 2555.3761
+    },
+    {
+      "MaterialName": "[2].运输保险费（器材原价 × 0.10%）",
+      "Total": 121.2400
+    },
+    {
+      "Sequence": 41,
+      "MaterialName": "合计（四）",
+      "Total": 1477.5420
+    },
+    {
+      "Sequence": 41,
+      "MaterialName": "N型直头公头配7/8馈线连接器",
+      "Company": "个",
+      "Number": 276,
+      "Price": 14.8643,
+      "Total": 4102.5475
+    },
+    {
+      "Sequence": 42,
+      "MaterialName": "馈线连接器  1/2\" N型双阳头（产品编码）",
+      "Company": "个",
+      "Number": 16,
+      "Price": 5.0773,
+      "Total": 81.2365
+    },
+    {
+      "Sequence": 42,
+      "MaterialName": "高品质无源器件 8dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.2800
+    },
+    {
+      "MaterialName": "合计",
+      "Total": 505799.3747
+    },
+    {
+      "MaterialName": "总计（合计1+2+3+4）",
+      "Total": 123879.9252
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "空开",
+      "Specifications": "正泰、10A、单联",
+      "Company": "个",
+      "Number": 2,
+      "Price": 18.0000,
+      "Total": 36.0000
+    },
+    {
+      "Sequence": 42,
+      "MaterialName": "馈线连接器  7/8\"N型公头（产品编码）",
+      "Company": "个",
+      "Number": 120,
+      "Price": 14.8643,
+      "Total": 1783.7163
+    },
+    {
+      "MaterialName": "[3].采购保管费（器材原价 × 1.10%）",
+      "Total": 1333.6800
+    },
+    {
+      "Sequence": 43,
+      "MaterialName": "馈线连接器  1/2\"N型直角弯头(N型公头转N型母头）（产品编码）",
+      "Company": "个",
+      "Number": 106,
+      "Price": 7.2089,
+      "Total": 764.1477
+    },
+    {
+      "MaterialName": "[4].采购代理服务费",
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "空开箱",
+      "Specifications": "200mm*200mm*1O0mm",
+      "Company": "个",
+      "Number": 2,
+      "Price": 12.0000,
+      "Total": 24.0000
+    },
+    {
+      "Sequence": 43,
+      "MaterialName": "高品质无源器件 10dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 31.4800
+    },
+    {
+      "Sequence": 43,
+      "MaterialName": "馈线连接器  1/2\"N型直角弯头(N型公头转N型母头）（产品编码）",
+      "Company": "个",
+      "Number": 215,
+      "Price": 7.2089,
+      "Total": 1549.9223
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "电表",
+      "Specifications": "得力西、10A",
+      "Company": "个",
+      "Number": 1,
+      "Price": 80.0000,
+      "Total": 80.0000
+    },
+    {
+      "Sequence": 44,
+      "MaterialName": "高品质无源器件 12dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.0100
+    },
+    {
+      "MaterialName": "总计",
+      "Total": 112318.9878
+    },
+    {
+      "MaterialName": "合计",
+      "Total": 289384.7599
+    },
+    {
+      "MaterialName": "小计2",
+      "Total": 127306.2900
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "防雷插座（三联）",
+      "Specifications": "突破保镖TZ-Y/TA-J1",
+      "Company": "个",
+      "Number": 1,
+      "Price": 110.0000,
+      "Total": 110.0000
+    },
+    {
+      "Sequence": 45,
+      "MaterialName": "高品质无源器件 15dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 32.4100
+    },
+    {
+      "Sequence": 8,
+      "MaterialName": "天线支架",
+      "Company": "根",
+      "Number": 6,
+      "Price": 10.0000,
+      "Total": 60.0000
+    },
+    {
+      "Sequence": 9,
+      "MaterialName": "PVC管",
+      "Company": "米",
+      "Number": 300,
+      "Price": 3.6000,
+      "Total": 1080.0000
+    },
+    {
+      "Sequence": 46,
+      "MaterialName": "高品质无源器件 20dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 31.7700
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "48芯终端盒LC（产品编码）",
+      "Company": "套",
+      "Number": 2,
+      "Price": 1051.6728,
+      "Total": 2103.3500
+    },
+    {
+      "Sequence": 10,
+      "MaterialName": "PVC管",
+      "Company": "米",
+      "Number": 200,
+      "Price": 7.5000,
+      "Total": 1500.0000
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "馈线连接器  1/2\"N型公头（产品编码）",
+      "Company": "个",
+      "Number": 76,
+      "Price": 6.9440,
+      "Total": 527.7400
+    },
+    {
+      "Sequence": 47,
+      "MaterialName": "高品质无源器件 25dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 31.7700
+    },
+    {
+      "Sequence": 11,
+      "MaterialName": "PVC穿线软管",
+      "Company": "米",
+      "Number": 100,
+      "Price": 5.0000,
+      "Total": 500.0000
+    },
+    {
+      "Sequence": 48,
+      "MaterialName": "高品质无源器件 30dB耦合器",
+      "Company": "个",
+      "Number": 1,
+      "Price": 33.8200
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "馈线连接器  7/8\"N型公头（产品编码）",
+      "Company": "个",
+      "Number": 36,
+      "Price": 14.8643,
+      "Total": 535.1100
+    },
+    {
+      "Sequence": 12,
+      "MaterialName": "PVC穿线软管",
+      "Company": "米",
+      "Number": 50,
+      "Price": 8.0000,
+      "Total": 400.0000
+    },
+    {
+      "Sequence": 49,
+      "MaterialName": "高品质无源器件 200W电桥（产品<br/>编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 115.4000
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "馈线连接器  1/2\"N型直角弯头(N型公头转N型母头）（产品编码）",
+      "Company": "个",
+      "Number": 49,
+      "Price": 7.2089,
+      "Total": 353.2400
+    },
+    {
+      "Sequence": 50,
+      "MaterialName": "高品质无源器件 200W负载（产品<br/>编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 215.2000
+    },
+    {
+      "MaterialName": "小计3（器材原价）",
+      "Total": 4429.4400
+    },
+    {
+      "Sequence": 13,
+      "MaterialName": "托盘",
+      "Company": "个",
+      "Number": 55,
+      "Price": 22.0000,
+      "Total": 1210.0000
+    },
+    {
+      "Sequence": 51,
+      "MaterialName": "高品质合路器 GSM&DCS/TD<br/>（A&F&E)双频合路器（两入一出）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 369.0000
+    },
+    {
+      "MaterialName": "[1].运杂费（器材原价 × 3.60%）",
+      "Total": 159.4600
+    },
+    {
+      "Sequence": 14,
+      "MaterialName": "空开",
+      "Company": "个",
+      "Number": 1,
+      "Price": 18.0000,
+      "Total": 18.0000
+    },
+    {
+      "Sequence": 52,
+      "MaterialName": "高品质合路器 GSM/DCS/TD<br/>（A&F&E)双频合路器（三入一出）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 359.9200
+    },
+    {
+      "MaterialName": "[2].运输保险费（器材原价 × 0.10%）",
+      "Total": 4.4300
+    },
+    {
+      "Sequence": 15,
+      "MaterialName": "空开箱",
+      "Company": "个",
+      "Number": 1,
+      "Price": 12.0000,
+      "Total": 12.0000
+    },
+    {
+      "Sequence": 53,
+      "MaterialName": "高品质合路器<br/>GSM&DCS/TD(A&F)/TDE双频合路器<br/>（三入一出）（产品编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 300.1000
+    },
+    {
+      "MaterialName": "[3].采购保管费（器材原价 × 1.00%）",
+      "Total": 44.2900
+    },
+    {
+      "Sequence": 16,
+      "MaterialName": "电表",
+      "Company": "个",
+      "Number": 1,
+      "Price": 80.0000,
+      "Total": 80.0000
+    },
+    {
+      "Sequence": 54,
+      "MaterialName": "高品质合路器 GSM&DCS&TD<br/>（A&F&E)/WLAN三频合路器（两入 一出）（产品编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 308.4400
+    },
+    {
+      "Sequence": 17,
+      "MaterialName": "48芯终端盒SC（产品编码）",
+      "Company": "套",
+      "Number": 2,
+      "Price": 1051.6728,
+      "Total": 2103.3500
+    },
+    {
+      "MaterialName": "[4].采购代理服务费",
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 55,
+      "MaterialName": "（南京华脉）GSM&DCS/TD F&TD<br/>A&TD E双频合路（二入一出）HM- DFC-G&D/ TD(F&A&E)-V3.0",
+      "Company": "个",
+      "Number": 1,
+      "Price": 688.0000,
+      "Total": 1123.4500
+    },
+    {
+      "Sequence": 18,
+      "MaterialName": "馈线卡 7/8\"单联馈线卡（沿墙型）（产品编码）",
+      "Company": "个",
+      "Number": 110,
+      "Price": 2.9913,
+      "Total": 329.0400
+    },
+    {
+      "MaterialName": "小计3",
+      "Total": 4637.6200
+    },
+    {
+      "Sequence": 56,
+      "MaterialName": "（南京华脉）GSM/DCS/TD F&TD<br/>A&TD E三频合路器（三入一出） HM-TFC-G/D/ TD(F&A&E)-V3.0",
+      "Company": "个",
+      "Number": 1,
+      "Price": 438.0000,
+      "Total": 11234.0000
+    },
+    {
+      "Sequence": 19,
+      "MaterialName": "馈线连接器  1/2\"N型公头（产品编码）",
+      "Company": "个",
+      "Number": 328,
+      "Price": 6.9440,
+      "Total": 2277.6200
+    },
+    {
+      "MaterialName": "合计（小计1~3之和）",
+      "Total": 42341.6900
+    },
+    {
+      "Sequence": 20,
+      "MaterialName": "馈线连接器  7/8\"N型公头（产品编码）",
+      "Company": "个",
+      "Number": 140,
+      "Price": 14.8643,
+      "Total": 2081.0000
+    },
+    {
+      "Sequence": 57,
+      "MaterialName": "（南京华脉）GSM&DCS/TD F&TD<br/>A/TD E三频合路器（三入一出） HM-TFC-G&D/ TD(F&A)/TDE-V3.0",
+      "Company": "个",
+      "Number": 1,
+      "Price": 350.0000,
+      "Total": 124.0000
+    },
+    {
+      "Sequence": 21,
+      "MaterialName": "馈线连接器  1/2\"N型直角弯头(N型公头转N型母头）（产品编码）",
+      "Company": "个",
+      "Number": 108,
+      "Price": 7.2089,
+      "Total": 778.5700
+    },
+    {
+      "Sequence": 58,
+      "MaterialName": "（南京华脉）GSM&DCS&TD F&TD<br/>A&TD E/WLAN双频合路器（二入一 出）HM-DFC-G&D&",
+      "Company": "个",
+      "Number": 1,
+      "Price": 712.0000,
+      "Total": 455.0000
+    },
+    {
+      "Sequence": 59,
+      "MaterialName": "GSM&DCS/TD F&TD A&TD E双频合路<br/>（两入一出）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 1008.0000,
+      "Total": 447.0000
+    },
+    {
+      "Sequence": 22,
+      "MaterialName": "7/16转N接头",
+      "Company": "个",
+      "Number": 1,
+      "Price": 38.0000,
+      "Total": 38.0000
+    },
+    {
+      "Sequence": 60,
+      "MaterialName": "GSM/DCS/TD F&TD A&TD E三频合路<br/>器（三入一出）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 1062.0000,
+      "Total": 111111.5400
+    },
+    {
+      "MaterialName": "小计3（器材原价）",
+      "Total": 12467.5800
+    },
+    {
+      "MaterialName": "[1].运杂费（器材原价 × 9.00%）",
+      "Total": 1122.0800
+    },
+    {
+      "Sequence": 61,
+      "MaterialName": "GSM&DCS/TD F&TD A/TD E三频合路<br/>器（三入一出）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 1089.0000
+    },
+    {
+      "Sequence": 62,
+      "MaterialName": "GSM&DCS&TD F&TD A&TD E/WLAN双<br/>频合路器（二入一出）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 1242.0000
+    },
+    {
+      "MaterialName": "[2].运输保险费（器材原价 × 0.10%）",
+      "Total": 12.4700
+    },
+    {
+      "MaterialName": "[3].采购保管费（器材原价 × 1.10%）",
+      "Total": 137.1400
+    },
+    {
+      "Sequence": 63,
+      "MaterialName": "全向单极化吸顶天线宽频（低频<br/>2dBi高频4dBi）（产品编码）",
+      "Company": "副",
+      "Number": 1,
+      "Price": 23.5900
+    },
+    {
+      "MaterialName": "[4].采购代理服务费",
+      "Total": 0.0000
+    },
+    {
+      "Sequence": 64,
+      "MaterialName": "定向单极化吸顶天线宽频（低频<br/>115°4dBi高频85°6dBi）（产品",
+      "Company": "副",
+      "Number": 1,
+      "Price": 30.1400
+    },
+    {
+      "Sequence": 65,
+      "MaterialName": "宽频 定向吸顶天线",
+      "Company": "副",
+      "Number": 1,
+      "Price": 30.9400
+    },
+    {
+      "MaterialName": "小计3",
+      "Total": 13739.2700
+    },
+    {
+      "Sequence": 66,
+      "MaterialName": "定向单极化壁挂天线宽频（低频90°6.5dBi高频75°8dBi）（产品编",
+      "Company": "副",
+      "Number": 1,
+      "Price": 47.6000
+    },
+    {
+      "MaterialName": "合计（小计1~3之和）",
+      "Total": 141794.4700
+    },
+    {
+      "MaterialName": "合计",
+      "Total": 152515.4000
+    },
+    {
+      "Sequence": 67,
+      "MaterialName": "GSM900M 八木天线",
+      "Company": "副",
+      "Number": 1,
+      "Price": 40.9500
+    },
+    {
+      "Sequence": 68,
+      "MaterialName": "GSM900M 八木天线",
+      "Company": "副",
+      "Number": 1,
+      "Price": 40.9500
+    },
+    {
+      "Sequence": 69,
+      "MaterialName": "定向单极化对数周期天线宽频（低<br/>频85°8.5dBi高频75°9dBi）（产 品编码）",
+      "Company": "副",
+      "Number": 1,
+      "Price": 58.4300
+    },
+    {
+      "Sequence": 70,
+      "MaterialName": "宽频 对数周期天线",
+      "Company": "副",
+      "Number": 1,
+      "Price": 68.0300
+    },
+    {
+      "Sequence": 71,
+      "MaterialName": "双灯头路灯型美化天线（圆型灯<br/>罩）",
+      "Specifications": "HXPBDV5E0608090D0T<br/>03508",
+      "Company": "根",
+      "Number": 1,
+      "Price": 1800.0000
+    },
+    {
+      "Sequence": 72,
+      "MaterialName": "双灯头路灯型美化天线（仿古型灯<br/>罩）",
+      "Specifications": "HXPBDV5E0608090D0T<br/>03509",
+      "Company": "根",
+      "Number": 1,
+      "Price": 1800.0000
+    },
+    {
+      "Sequence": 73,
+      "MaterialName": "单灯头路灯型美化天线（波纹灯<br/>罩）",
+      "Specifications": "HXPBDV5E0608090D0T<br/>03506",
+      "Company": "根",
+      "Number": 1,
+      "Price": 1800.0000
+    },
+    {
+      "Sequence": 74,
+      "MaterialName": "单灯头路灯型美化天线（柱状灯<br/>罩）",
+      "Specifications": "HXPBDV5E0608090D0T<br/>03507",
+      "Company": "根",
+      "Number": 1,
+      "Price": 1800.0000
+    },
+    {
+      "Sequence": 75,
+      "MaterialName": "单灯头路灯型美化天线（蘑菇灯<br/>罩）",
+      "Specifications": "HXPBDV5E0608090D0T<br/>03510",
+      "Company": "根",
+      "Number": 1,
+      "Price": 1800.0000
+    },
+    {
+      "Sequence": 76,
+      "MaterialName": "特殊定制路灯型美化天线",
+      "Specifications": "HXPBDV5E0608090D0T<br/>03511",
+      "Company": "根",
+      "Number": 1,
+      "Price": 1800.0000
+    },
+    {
+      "Sequence": 77,
+      "MaterialName": "烟感型美化天线",
+      "Specifications": "HXXDOV5E0202360D0T<br/>41003",
+      "Company": "套",
+      "Number": 1,
+      "Price": 90.0000
+    },
+    {
+      "Sequence": 78,
+      "MaterialName": "贴片型美化天线",
+      "Specifications": "HXXDOV5E0303360D0T<br/>8040",
+      "Company": "套",
+      "Number": 1,
+      "Price": 90.0000
+    },
+    {
+      "Sequence": 79,
+      "MaterialName": "鞭状型隐蔽天线",
+      "Specifications": "HXTQJ-0825CYB",
+      "Company": "副",
+      "Number": 1,
+      "Price": 565.0000
+    },
+    {
+      "Sequence": 80,
+      "MaterialName": "900M 1W低增益干线放大器（含配<br/>件）（产品编码）",
+      "Company": "台",
+      "Number": 1,
+      "Price": 1230.6500
+    },
+    {
+      "Sequence": 81,
+      "MaterialName": "900M 2W低增益干线放大器（含配<br/>件）（产品编码）",
+      "Company": "台",
+      "Number": 1,
+      "Price": 1372.9100
+    },
+    {
+      "Sequence": 82,
+      "MaterialName": "900M 5W低增益干线放大器（含配<br/>件）（产品编码）",
+      "Company": "台",
+      "Number": 1,
+      "Price": 1583.5200
+    },
+    {
+      "Sequence": 83,
+      "MaterialName": "900M 10W低增益干线放大器（含配<br/>件）（产品编码）",
+      "Company": "台",
+      "Number": 1,
+      "Price": 1893.2400
+    },
+    {
+      "Sequence": 84,
+      "MaterialName": "1800M1W低增益干线放大器（含配<br/>件）（产品编码）",
+      "Company": "台",
+      "Number": 1,
+      "Price": 1159.9900
+    },
+    {
+      "Sequence": 85,
+      "MaterialName": "1800M 2W低增益干线放大器（含配<br/>件）（产品编码）",
+      "Company": "台",
+      "Number": 1,
+      "Price": 1378.2000
+    },
+    {
+      "Sequence": 86,
+      "MaterialName": "1800M 5W低增益干线放大器（含配<br/>件）（产品编码）",
+      "Company": "台",
+      "Number": 1,
+      "Price": 1580.8100
+    },
+    {
+      "Sequence": 87,
+      "MaterialName": "1800M 10W低增益干线放大器（含<br/>配件）（产品编码）",
+      "Company": "台",
+      "Number": 1,
+      "Price": 2033.7400
+    },
+    {
+      "Sequence": 88,
+      "MaterialName": "GRRU近端机",
+      "Specifications": "60W",
+      "Company": "台",
+      "Number": 1,
+      "Price": 9500.0000
+    },
+    {
+      "Sequence": 89,
+      "MaterialName": "GRRU远端机",
+      "Specifications": "60W",
+      "Company": "台",
+      "Number": 1,
+      "Price": 20100.0000
+    },
+    {
+      "Sequence": 90,
+      "MaterialName": "1/2\"超柔阻燃1米跳线",
+      "Specifications": "N阳头转N阴头",
+      "Company": "根",
+      "Number": 1,
+      "Price": 100.0000
+    },
+    {
+      "Sequence": 91,
+      "MaterialName": "1/2\"超柔阻燃1米跳线",
+      "Specifications": "N阳头转N阳头",
+      "Company": "根",
+      "Number": 1,
+      "Price": 100.0000
+    },
+    {
+      "Sequence": 92,
+      "MaterialName": "馈线吊杆",
+      "Company": "根",
+      "Number": 1,
+      "Price": 10.0000
+    },
+    {
+      "Sequence": 93,
+      "MaterialName": "天线支架",
+      "Company": "根",
+      "Number": 1,
+      "Price": 10.0000
+    },
+    {
+      "Sequence": 94,
+      "MaterialName": "天线吊杆",
+      "Company": "根",
+      "Number": 1,
+      "Price": 10.0000
+    },
+    {
+      "Sequence": 95,
+      "MaterialName": "PVC线槽",
+      "Specifications": "40mm*60mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 7.8000
+    },
+    {
+      "Sequence": 96,
+      "MaterialName": "金属线槽",
+      "Specifications": "100mm*50mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 36.0000
+    },
+    {
+      "Sequence": 97,
+      "MaterialName": "金属线槽",
+      "Specifications": "100mm*100mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 50.0000
+    },
+    {
+      "Sequence": 98,
+      "MaterialName": "金属线槽",
+      "Specifications": "200mm*100mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 69.0000
+    },
+    {
+      "Sequence": 99,
+      "MaterialName": "金属线槽",
+      "Specifications": "200mm*200mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 87.0000
+    },
+    {
+      "Sequence": 100,
+      "MaterialName": "金属线槽",
+      "Specifications": "300mm*200mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 116.0000
+    },
+    {
+      "Sequence": 101,
+      "MaterialName": "金属线槽",
+      "Specifications": "400mm*200mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 147.0000
+    },
+    {
+      "Sequence": 102,
+      "MaterialName": "金属线槽",
+      "Specifications": "400mm*400mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 194.0000
+    },
+    {
+      "Sequence": 103,
+      "MaterialName": "PVC管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 3.6000
+    },
+    {
+      "Sequence": 104,
+      "MaterialName": "PVC管",
+      "Specifications": "Φ32mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 4.8000
+    },
+    {
+      "Sequence": 105,
+      "MaterialName": "PVC管",
+      "Specifications": "Φ50mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 7.5000
+    },
+    {
+      "Sequence": 106,
+      "MaterialName": "金属穿线软管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 6.0000
+    },
+    {
+      "Sequence": 107,
+      "MaterialName": "金属穿线软管",
+      "Specifications": "Φ32mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 7.0000
+    },
+    {
+      "Sequence": 108,
+      "MaterialName": "金属穿线软管",
+      "Specifications": "Φ40mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 9.0000
+    },
+    {
+      "Sequence": 109,
+      "MaterialName": "PVC穿线软管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 5.0000
+    },
+    {
+      "Sequence": 110,
+      "MaterialName": "PVC穿线软管",
+      "Specifications": "Φ32mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 6.0000
+    },
+    {
+      "Sequence": 111,
+      "MaterialName": "PVC穿线软管",
+      "Specifications": "Φ40mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 8.0000
+    },
+    {
+      "Sequence": 112,
+      "MaterialName": "镀锌管",
+      "Specifications": "Φ25mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 8.0000
+    },
+    {
+      "Sequence": 113,
+      "MaterialName": "镀锌管",
+      "Specifications": "Φ40mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 12.0000
+    },
+    {
+      "Sequence": 114,
+      "MaterialName": "托盘",
+      "Specifications": "贴墙式",
+      "Company": "个",
+      "Number": 1,
+      "Price": 22.0000
+    },
+    {
+      "Sequence": 115,
+      "MaterialName": "钢丝绳",
+      "Specifications": "6*2mm",
+      "Company": "米",
+      "Number": 1,
+      "Price": 3.0000
+    },
+    {
+      "Sequence": 116,
+      "MaterialName": "器件箱（配件箱）",
+      "Specifications": "800mm*1400mm*150mm",
+      "Company": "个",
+      "Number": 1,
+      "Price": 440.0000
+    },
+    {
+      "Sequence": 117,
+      "MaterialName": "器件箱（配件箱）",
+      "Specifications": "1200mm*1200mm*600m",
+      "Company": "个",
+      "Number": 1,
+      "Price": 790.0000
+    },
+    {
+      "Sequence": 118,
+      "MaterialName": "器件箱（配件箱）",
+      "Specifications": "600mm*1000mm*400mm",
+      "Company": "个",
+      "Number": 1,
+      "Price": 710.0000
+    },
+    {
+      "Sequence": 119,
+      "MaterialName": "器件箱（配件箱）",
+      "Specifications": "400mm*800mm*200mm",
+      "Company": "个",
+      "Number": 1,
+      "Price": 280.0000
+    },
+    {
+      "Sequence": 120,
+      "MaterialName": "器件箱（配件箱）",
+      "Specifications": "500mm*600mm*350mm",
+      "Company": "个",
+      "Number": 1,
+      "Price": 240.0000
+    },
+    {
+      "Sequence": 121,
+      "MaterialName": "器件箱（配件箱）",
+      "Specifications": "400mm*500mm*200mm",
+      "Company": "个",
+      "Number": 1,
+      "Price": 190.0000
+    },
+    {
+      "Sequence": 122,
+      "MaterialName": "器件箱（配件箱）",
+      "Specifications": "300mm*400mm*150mm",
+      "Company": "个",
+      "Number": 1,
+      "Price": 190.0000
+    },
+    {
+      "Sequence": 123,
+      "MaterialName": "网络箱",
+      "Specifications": "500mm*600mm*350mm",
+      "Company": "个",
+      "Number": 1,
+      "Price": 570.0000
+    },
+    {
+      "Sequence": 124,
+      "MaterialName": "网络箱",
+      "Specifications": "800*500*1000",
+      "Company": "个",
+      "Number": 1,
+      "Price": 619.5000
+    },
+    {
+      "Sequence": 125,
+      "MaterialName": "网络箱",
+      "Specifications": "600*400*350",
+      "Company": "个",
+      "Number": 1,
+      "Price": 378.0000
+    },
+    {
+      "Sequence": 126,
+      "MaterialName": "网络箱",
+      "Specifications": "600*600*350",
+      "Company": "个",
+      "Number": 1,
+      "Price": 556.5000
+    },
+    {
+      "Sequence": 127,
+      "MaterialName": "网络箱",
+      "Specifications": "350*400*550",
+      "Company": "个",
+      "Number": 1,
+      "Price": 380.0000
+    },
+    {
+      "Sequence": 128,
+      "MaterialName": "网络箱",
+      "Specifications": "350*500*550",
+      "Company": "个",
+      "Number": 1,
+      "Price": 460.0000
+    },
+    {
+      "Sequence": 129,
+      "MaterialName": "网络箱",
+      "Specifications": "600*400*600",
+      "Company": "个",
+      "Number": 1,
+      "Price": 610.0000
+    },
+    {
+      "Sequence": 130,
+      "MaterialName": "网络箱",
+      "Specifications": "600*350*350",
+      "Company": "个",
+      "Number": 1,
+      "Price": 380.0000
+    },
+    {
+      "Sequence": 131,
+      "MaterialName": "网络箱",
+      "Specifications": "400*200*500",
+      "Company": "个",
+      "Number": 1,
+      "Price": 210.0000
+    },
+    {
+      "Sequence": 132,
+      "MaterialName": "网络箱",
+      "Specifications": "550*300*350",
+      "Company": "个",
+      "Number": 1,
+      "Price": 360.0000
+    },
+    {
+      "Sequence": 133,
+      "MaterialName": "网络箱",
+      "Specifications": "550*450*550",
+      "Company": "个",
+      "Number": 1,
+      "Price": 580.0000
+    },
+    {
+      "Sequence": 134,
+      "MaterialName": "电源线",
+      "Specifications": "ZA-RVV-3*2.5",
+      "Company": "米",
+      "Number": 1,
+      "Price": 7.0000
+    },
+    {
+      "Sequence": 135,
+      "MaterialName": "电源线",
+      "Specifications": "ZA-RVV-3*4",
+      "Company": "米",
+      "Number": 1,
+      "Price": 10.0000
+    },
+    {
+      "Sequence": 136,
+      "MaterialName": "地线",
+      "Specifications": "ZA-RVV-1×16MM",
+      "Company": "米",
+      "Number": 1,
+      "Price": 12.0000
+    },
+    {
+      "Sequence": 137,
+      "MaterialName": "空开",
+      "Specifications": "正泰、10A、单联",
+      "Company": "个",
+      "Number": 1,
+      "Price": 18.0000
+    },
+    {
+      "Sequence": 138,
+      "MaterialName": "空开箱",
+      "Specifications": "200mm*200mm*1O0mm",
+      "Company": "个",
+      "Number": 1,
+      "Price": 12.0000
+    },
+    {
+      "Sequence": 139,
+      "MaterialName": "电表",
+      "Specifications": "得力西、10A",
+      "Company": "个",
+      "Number": 1,
+      "Price": 80.0000
+    },
+    {
+      "Sequence": 140,
+      "MaterialName": "电表",
+      "Specifications": "得力西、40A",
+      "Company": "个",
+      "Number": 1,
+      "Price": 90.0000
+    },
+    {
+      "Sequence": 141,
+      "MaterialName": "法兰盘（光纤连接）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 7.0000
+    },
+    {
+      "Sequence": 142,
+      "MaterialName": "路由器支架（1U）",
+      "Specifications": "固定路由器的槽架",
+      "Company": "个",
+      "Number": 1,
+      "Price": 27.0000
+    },
+    {
+      "Sequence": 143,
+      "MaterialName": "AP跳线",
+      "Specifications": "0.5米超柔跳线",
+      "Company": "条",
+      "Number": 1,
+      "Price": 35.0000
+    },
+    {
+      "Sequence": 144,
+      "MaterialName": "AP支架",
+      "Specifications": "30×30",
+      "Company": "个",
+      "Number": 1,
+      "Price": 10.0000
+    },
+    {
+      "Sequence": 145,
+      "MaterialName": "防雷插座（三联）",
+      "Specifications": "突破保镖TZ-Y/TA-J1",
+      "Company": "个",
+      "Number": 1,
+      "Price": 110.0000
+    },
+    {
+      "Sequence": 146,
+      "MaterialName": "防雷插座（五联）",
+      "Specifications": "突破保镖TZ-Y/TA-21",
+      "Company": "个",
+      "Number": 1,
+      "Price": 160.0000
+    },
+    {
+      "Sequence": 147,
+      "MaterialName": "光跳纤LC-LC-10M（产品编码）",
+      "Company": "根",
+      "Number": 1,
+      "Price": 8.4300
+    },
+    {
+      "Sequence": 148,
+      "MaterialName": "光跳纤SC-LC-10M（产品编码）",
+      "Company": "根",
+      "Number": 1,
+      "Price": 8.8400
+    },
+    {
+      "Sequence": 149,
+      "MaterialName": "24芯终端盒LC（产品编码）",
+      "Company": "套",
+      "Number": 1,
+      "Price": 544.5600
+    },
+    {
+      "Sequence": 150,
+      "MaterialName": "48芯终端盒LC（产品编码）",
+      "Company": "套",
+      "Number": 1,
+      "Price": 1051.6700
+    },
+    {
+      "Sequence": 151,
+      "MaterialName": "聚乙烯管",
+      "Specifications": "Φ32",
+      "Company": "米",
+      "Number": 1,
+      "Price": 4.7300
+    },
+    {
+      "Sequence": 152,
+      "MaterialName": "网络箱支架",
+      "Company": "套",
+      "Number": 1,
+      "Price": 48.0000
+    },
+    {
+      "Sequence": 153,
+      "MaterialName": "馈线卡 1/2\"单联馈线卡（沿墙<br/>型）（产品编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 2.7400
+    },
+    {
+      "Sequence": 154,
+      "MaterialName": "馈线卡 1/2\"双联馈线卡（沿墙<br/>型）（产品编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 3.1800
+    },
+    {
+      "Sequence": 155,
+      "MaterialName": "馈线卡 7/8\"单联馈线卡（沿墙<br/>型）（产品编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 2.9900
+    },
+    {
+      "Sequence": 156,
+      "MaterialName": "馈线卡 7/8\"双联馈线卡（沿墙<br/>型）（产品编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 3.4400
+    },
+    {
+      "Sequence": 157,
+      "MaterialName": "馈线卡",
+      "Specifications": "1/2”单联（沿墙",
+      "Company": "个",
+      "Number": 1,
+      "Price": 2.4600
+    },
+    {
+      "Sequence": 158,
+      "MaterialName": "馈线卡",
+      "Specifications": "1/2”双联（沿墙",
+      "Company": "个",
+      "Number": 1,
+      "Price": 2.8000
+    },
+    {
+      "Sequence": 159,
+      "MaterialName": "馈线卡",
+      "Specifications": "7/8”单联（沿墙",
+      "Company": "个",
+      "Number": 1,
+      "Price": 2.7000
+    },
+    {
+      "Sequence": 160,
+      "MaterialName": "馈线卡",
+      "Specifications": "7/8”双联（沿墙",
+      "Company": "个",
+      "Number": 1,
+      "Price": 3.0400
+    },
+    {
+      "Sequence": 161,
+      "MaterialName": "12芯光缆(亨通）",
+      "Specifications": "12芯室外  GYFTZY-<br/>12B1.3",
+      "Company": "米",
+      "Number": 1,
+      "Price": 3.3000
+    },
+    {
+      "Sequence": 162,
+      "MaterialName": "24芯非金属阻燃光缆GYFTZY-<br/>24B1.3（产品编码）",
+      "Company": "米",
+      "Number": 1,
+      "Price": 3.6100
+    },
+    {
+      "Sequence": 163,
+      "MaterialName": "48芯非金属阻燃光缆GYFTZY-<br/>48B1.3（产品编码）",
+      "Company": "米",
+      "Number": 1,
+      "Price": 6.2500
+    },
+    {
+      "Sequence": 164,
+      "MaterialName": "1/2馈线",
+      "Specifications": "普通",
+      "Company": "米",
+      "Number": 1,
+      "Price": 11.7400
+    },
+    {
+      "Sequence": 165,
+      "MaterialName": "7/8馈线",
+      "Specifications": "普通",
+      "Company": "米",
+      "Number": 1,
+      "Price": 25.6400
+    },
+    {
+      "Sequence": 166,
+      "MaterialName": "馈线 1/2\"普通阻燃馈线（产品编",
+      "Company": "米",
+      "Number": 1,
+      "Price": 12.2000
+    },
+    {
+      "Sequence": 167,
+      "MaterialName": "馈线  7/8\"普通阻燃馈线（产品编<br/>码）",
+      "Company": "米",
+      "Number": 1,
+      "Price": 25.8000
+    },
+    {
+      "Sequence": 168,
+      "MaterialName": "馈线连接器  1/2\"N型公头（产品<br/>编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 6.9400
+    },
+    {
+      "Sequence": 169,
+      "MaterialName": "馈线连接器  7/8\"N型公头（产品<br/>编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 14.8600
+    },
+    {
+      "Sequence": 170,
+      "MaterialName": "馈线连接器  1/2\" N型双阴头（产<br/>品编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 4.7500
+    },
+    {
+      "Sequence": 171,
+      "MaterialName": "馈线连接器  1/2\" N型双阳头（产<br/>品编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 5.0800
+    },
+    {
+      "Sequence": 172,
+      "MaterialName": "馈线连接器  1/2\"N型直角弯头(N<br/>型公头转N型母头）（产品编码）",
+      "Company": "个",
+      "Number": 1,
+      "Price": 7.2100
+    },
+    {
+      "Sequence": 173,
+      "MaterialName": "7/16转N接头",
+      "Specifications": "DIN转N型接头<br/>(7/16\"DINM-1/2\"NF)",
+      "Company": "个",
+      "Number": 1,
+      "Price": 38.0000
+    },
+    {
+      "Sequence": 174,
+      "MaterialName": "小计1（器材原价）",
+      "Total": 1123.4500
+    },
+    {
+      "Sequence": 175,
+      "MaterialName": "[1].运杂费（器材原价 × 2.40%）",
+      "Total": 11234.0000
+    },
+    {
+      "Sequence": 176,
+      "MaterialName": "[2].运输保险费（器材原价 × 0.10%）",
+      "Total": 124.0000
+    },
+    {
+      "Sequence": 177,
+      "MaterialName": "[3].采购保管费（器材原价 × 1.00%）",
+      "Total": 455.0000
+    },
+    {
+      "Sequence": 178,
+      "MaterialName": "[4].采购代理服务费",
+      "Total": 447.0000
+    },
+    {
+      "MaterialName": "合计（小计1~3之和）",
+      "Total": 111111.5400
+    }
+  ]
+}

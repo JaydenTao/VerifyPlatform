@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+    <t t-name="HiddenInputFile_custom">
+    <div t-attf-class="oe_hidden_input_file #{fileupload_class or ''}" t-att-style="fileupload_style">
+        <form class="oe_form_binary_form" t-att-target="fileupload_id"
+            method="post" enctype="multipart/form-data"
+              t-att-action="fileupload_action || 'web/custom_upload_file/upload'"
+              t-att-id="form_id">
+            <input type="hidden" name="session_id" value="widget.session.session_id"/>
+            <input type="hidden" name="callback" t-att-value="form_id"/>
+            <t t-raw="0"/>
+            <input type="file" size="2"  class="oe_form_binary_file" style="width: 46px;" name="ufile" t-if="widget.widget!='image'"
+                   t-att-id="input_file_id"
+            />
+            <input type="file" class="oe_form_binary_file" name="ufile" accept="image/*" t-if="widget.widget=='image'"/>
+        </form>
+        <iframe t-att-id="fileupload_id" t-att-name="fileupload_id" style="display: none"/>
+    </div>
+    </t>
+    <t t-name="FieldUploadfile">
+        <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+            <td>
+                <input type="text" size="12" readonly="readonly" t-att-id="widget.input_v_file_id" t-att-name="widget.name" class="field_binary"/>
+            </td>
+            <td class="oe_form_binary" nowrap="true">
+                <table cellspacing="0" cellpadding="0" border="0">
+                <tr t-att-data-id="widget.record_id">
+                    <td>
+                            <t t-call="HiddenInputFile_custom">
+                                <t t-set="fileupload_id" t-value="widget.fileupload_id"/>
+                                <t t-set="input_file_id" t-value="widget.input_file_id" />
+                                <t t-set="form_id" t-value="widget.form_id" />
+                            <button class="oe_button oe_field_button" type="button">
+                                <img t-att-src='_s + "/web/static/src/img/icons/STOCK_DIRECTORY.png"'/>
+                                <span>浏览</span>
+                            </button>
+                        </t>
+                    </td>
+                    <td t-att-data-field='widget.action' class="oe_list_field_cell oe_list_field_object  oe-button  " t-att-name="widget.action">
+                        <button class="oe_button oe_form_binary_file_clear" type="object"  title="上传" t-att-id="widget.btn_upload_id">
+                            <img t-att-src='_s + "/web/static/src/img/icons/STOCK_GO_UP.png"'/>
+                            <span>上传</span>
+                        </button>
+                    </td>
+                </tr>
+                </table>
+            </td>
+            <td class="oe_form_binary_progress" style="display: none" nowrap="true">
+                <img t-att-src='_s + "/web/static/src/img/throbber.gif"' width="16" height="16"/>
+                <b>Uploading ...</b>
+            </td>
+        </tr>
+        </table>
+    </t>
+</templates>

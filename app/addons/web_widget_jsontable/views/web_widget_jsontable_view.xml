@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <template id="assets_backend" name="web_widget_jsontable assets" inherit_id="web.assets_backend">
+            <xpath expr="." position="inside">
+                <link rel="stylesheet" href="/web_widget_jsontable/static/src/css/widget.css"/>
+                <link rel="stylesheet" href="/web_widget_jsontable/static/src/lib/DataTables/media/css/jquery.dataTables.css"/>
+                <script type="text/javascript" src="/web_widget_jsontable/static/src/lib/DataTables/media/js/jquery.dataTables.js"></script>
+                <script type="text/javascript" src="/web_widget_jsontable/static/src/js/widget.js"></script>
+            </xpath>
+        </template>
+    </data>
+</openerp>

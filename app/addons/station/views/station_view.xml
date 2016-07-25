@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<openerp>
+    <data>
+        <record model="ir.ui.view" id="station_baseinfo_tree">
+            <field name="name">station.baseinfo.tree</field>
+            <field name="model">station.baseinfo</field>
+            <field name="type">tree</field>
+            <field name="limit">20</field>
+            <field name="arch" type="xml">
+                <tree string="stations">
+                    <field name="name"/>
+                    <field name="demand2G"></field>
+                </tree>
+            </field>
+
+        </record>
+        <record model="ir.ui.view" id="station_baseinfo_form">
+            <field name="name">station.baseinfo.form</field>
+            <field name="model">station.baseinfo</field>
+            <field name="arch" type="xml">
+                <form string="站点信息维护" version="8.0">
+                    <!--<sheet>-->
+                        <!--<field name='id' invisible='True'/>-->
+                        <group col="6" colspan="4">
+                            <field name="name" />
+                            <field name="branch" />
+                            <field name="build_type" />
+                            <field name="design_unit" />
+                            <field name="designer" />
+                            <field name="designer_phone" />
+                            <field name="building_name" />
+                            <field name="building_count" />
+                            <field name="review_type" />
+                            <field name="longitude" />
+                            <field name="latitude" />
+                            <field name="singleDoubleRoom" />
+                            <field name="roomFeedWay" />
+                            <field name="isExtraRoom" />
+                            <field name="notExtraRoomReason" />
+                            <field name="isModelTest" />
+                            <field name="notModelReason" />
+                            <field name="isFollowBranch" />
+                            <field name="antennaCount" />
+                            <field name="isAntennaHome" />
+                            <field name="coverType" />
+                            <field name="coverFunctionType" />
+                            <field name="isSuspendedCeiling" />
+                            <field name="coveringArea" />
+                            <field name="notCoverageAreaExplain" />
+                            <field name="buildArea" />
+                            <field name="casingLength" />
+                            <field name="detailedAddress" colspan="6"/>
+                        </group>
+                        <group col="6" string="2G 属性" colspan="4">
+                            <field name="demand2G" />
+                            <field name="manufactor2G" />
+                            <field name="partitionCount2G" />
+                            <field name="partitionExplain2G" />
+                            <field name="config2G" />
+                            <field name="BBUCount2G" />
+                            <field name="BBUPosition2G" />
+                            <field name="RRUCount2G" />
+                            <field name="RRUPosition2G" />
+                        </group>
+                        <group col="6" string="3G 属性" colspan="4">
+                            <field name="demand3G" />
+                            <field name="manufactor3G" />
+                            <field name="partitionCount3G" />
+                            <field name="partitionExplain3G" />
+                            <field name="config3G" />
+                            <field name="BBUCount3G" />
+                            <field name="BBUPosition3G" />
+                            <field name="RRUCount3G" />
+                            <field name="RRUPosition3G" />
+                        </group>
+                        <group col="6" string="4G 属性" colspan="4">
+                            <field name="demand4G" />
+                            <field name="manufactor4G" />
+                            <field name="partitionCount4G" />
+                            <field name="partitionExplain4G" />
+                            <field name="config4G" />
+                            <field name="BBUCount4G" />
+                            <field name="BBUPosition4G" />
+                            <field name="RRUCount4G" />
+                            <field name="RRUPosition4G" />
+                        </group>
+
+                        <!--<group string="备注">-->
+                        <label for="remarks"/> <field name="remarks" nolabel="1" colspan="4"/>
+                        <!--</group>-->
+                    <!--</sheet>-->
+                </form>
+            </field>
+        </record>
+
+        <record model="ir.actions.act_window" id="station_baseinfo_act">
+            <field name="name">站点信息</field>
+            <field name="res_model">station.baseinfo</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">tree,form</field>
+            <field name="limit">20</field>
+            <field name="view_id" ref="station_baseinfo_tree"/>
+        </record>
+
+
+
+        <menuitem name="建设方案" id="menu_root" sequence="110"/>
+        <menuitem name="站点基础信息管理" parent="menu_root" id="station_baseinfo_manage" sequence="1"/>
+        <menuitem action="station_baseinfo_act" parent="station_baseinfo_manage" id="station_baseinfo_menu"/>
+
+    </data>
+</openerp>

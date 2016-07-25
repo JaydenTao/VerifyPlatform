@@ -1,0 +1,88 @@
+.custom_top {
+    width: 100%;
+    background: url(../img/custom/panel-top-bg.png) repeat-x;
+    height: 77px;
+    /*min-width: 1002px;*/
+    /*position: relative;*/
+}
+
+.custom_logo{
+    padding: 0 0 0 10px;
+}
+
+.custom_user_top{
+    position:absolute;
+    top:-76px;
+    right:10px;
+    float: right;
+    width: 120px;
+    height: 32px;
+}
+
+ a.oe_logo img {
+    margin: 0;
+    border: 0;
+    float: left;
+}
+
+.custom_menu {
+    padding: 0 0 0 205px;
+}
+
+#oe_main_menu_navbar{
+    background-color: #0082d0;
+    border: 0px;
+}
+#oe_main_menu_navbar li a, #oe_main_menu_navbar li button {
+  padding: 8px 8px 6px 8px;
+  margin: 0px;
+  font-size: 14px;
+}
+
+
+
+/*.openerp div.placeholder {*/
+    /*position: relative;*/
+    /*width: 220px;*/
+    /*display: block;*/
+    /*text-align: center;*/
+    /*height: 20px;*/
+/*}*/
+
+
+/*custom bootstrap */
+
+/*设置一级菜单*/
+.navbar-inverse .navbar-nav > li > a{
+    color: white;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus{
+    color: #fff;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+/*因user menu与一级菜单相同,修正之*/
+.navbar .oe_topbar_name{
+    color: #4c4c4c;
+}
+
+.caret{
+    color: #4c4c4c;
+}
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus
+{
+    background-color:#eeeeee;
+}
+
+/*left menu*/
+.openerp .oe_leftbar{
+    background:#ffffff;
+}
+
+/*form*/
+
+.openerp.openerp_webclient_container{
+        height: calc(100% - 129px);
+}

@@ -1,0 +1,9 @@
+.login_main {
+    background:#fff url(/web/static/src/img/login_bg.png) no-repeat 0 0 fixed;
+    /*background:#fff url(http://static.36kr.com/wp-content/uploads/2012/02/S04.png) no-repeat 0 0 fixed;*/
+    width: 100%;
+    min-width: 1000px;
+    height: 640px;
+    position: relative;
+    display: block;
+}

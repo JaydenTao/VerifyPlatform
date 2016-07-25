@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="DeZhou" id="DeZhou">
+	<SimpleField name="text" type="string"></SimpleField>
+</Schema>
+<Folder><name>DeZhou</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#DeZhou">
+		<SimpleData name="text">{ &quot;headline&quot;: &quot;场院围墙&quot;, &quot;text&quot;: &quot;&quot; }</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>117.752065658569336,39.020079762741361 117.750960588455186,39.018179242092337 117.753948569297776,39.017124764522798 117.755048274993896,39.019025313514582 117.752065658569336,39.020079762741361</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#DeZhou">
+		<SimpleData name="text">{ &quot;headline&quot;: &quot;维修车间&quot;, &quot;text&quot;: &quot;&quot; }</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>117.752087116241455,39.019983904370548 117.751974463462815,39.019788019469566 117.752371430397019,39.019642147382221 117.752494812011705,39.019842200453901 117.752087116241455,39.019983904370548</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#DeZhou">
+		<SimpleData name="text">{ &quot;headline&quot;: &quot;西办公楼&quot;, &quot;text&quot;: &quot;&quot; }</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>117.751405835151658,39.018420977817442 117.751765251159668,39.018291774343034 117.75170624256134,39.018175074227734 117.751341462135315,39.018304277915391 117.751405835151658,39.018420977817442</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#DeZhou">
+		<SimpleData name="text">{ &quot;headline&quot;: &quot;仓库&quot;, &quot;text&quot;: &quot;&quot; }</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>117.7517169713974,39.018170906362926 117.751888632774339,39.018466824154849 117.753422856330857,39.017908330383818 117.753224372863755,39.017612410254571 117.7517169713974,39.018170906362926</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#DeZhou">
+		<SimpleData name="text">{ &quot;headline&quot;: &quot;东办公楼&quot;, &quot;text&quot;: &quot;&quot; }</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>117.753245830535889,39.0176165781523 117.753326296806335,39.017733279189351 117.753685712814331,39.017599906559852 117.753610610961914,39.017491541113152 117.753605246543884,39.017483205302682 117.753245830535889,39.0176165781523</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#DeZhou">
+		<SimpleData name="text">{ &quot;headline&quot;: &quot;机装队&quot;, &quot;text&quot;: &quot;&quot; }</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>117.754678130149827,39.019142012226595 117.754957079887376,39.019041984770965 117.754930257797241,39.019000306622679 117.754656672477722,39.019100334137285 117.754678130149827,39.019142012226595</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#DeZhou">
+		<SimpleData name="text">{ &quot;headline&quot;: &quot;A区，A4，A5&quot;, &quot;text&quot;: &quot;&quot; }</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>117.753481864929199,39.017704103948155 117.753573060035706,39.01787081945006 117.753841280937195,39.017779125972652 117.753733992576599,39.017620746049808 117.753481864929199,39.017704103948155</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#DeZhou">
+		<SimpleData name="text">{ &quot;text&quot;: &quot;&quot;, &quot;headline&quot;: &quot;C区，C1，C2，C3&quot; }</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>117.753229737281785,39.018000023693681 117.753331661224365,39.017958344931188 117.753524780273438,39.018266767191697 117.753401398658752,39.018308445772362 117.753229737281785,39.018000023693681</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#DeZhou">
+		<SimpleData name="text">{ &quot;headline&quot;: &quot;A区，A18，A17，A16，A15&quot;, &quot;text&quot;: &quot;&quot; }</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>117.753589153289781,39.018158402766979 117.753937840461731,39.018033366685941 117.753857374191284,39.017912498264124 117.753524780273438,39.018045870304 117.753589153289781,39.018158402766979</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#DeZhou">
+		<SimpleData name="text">{ &quot;headline&quot;: &quot;A区，A14，A13，A12，A11&quot;, &quot;text&quot;: &quot;&quot; }</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>117.753680348396301,39.018337620764207 117.754029035568223,39.018212585000079 117.753980755805969,39.018133395568476 117.753637433052063,39.01826259933226 117.753680348396301,39.018337620764207</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#DeZhou">
+		<SimpleData name="text">{ &quot;headline&quot;: &quot;A区，A10，A9，A8，A7，A6&quot;, &quot;text&quot;: &quot;&quot; }</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>117.753733992576599,39.018625202182569 117.75435090065001,39.018400138563358 117.754275798797593,39.018270935050857 117.753664255142198,39.018491831235423 117.753733992576599,39.018625202182569</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#DeZhou">
+		<SimpleData name="text">{ &quot;headline&quot;: &quot;B区，B1，B2，B3，B4&quot;, &quot;text&quot;: &quot;&quot; }</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>117.754189968109117,39.018116724097872 117.75397002696991,39.017733279189351 117.753927111625671,39.017754118639999 117.754136323928833,39.018133395568476 117.754189968109117,39.018116724097872</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#DeZhou">
+		<SimpleData name="text">{ &quot;headline&quot;: &quot;检查桥，运抵出口&quot;, &quot;text&quot;: &quot;&quot; }</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>117.753750085830674,39.017537388053185 117.754029035568223,39.017433190419219 117.753980755805969,39.017349832201489 117.753707170486436,39.01746236577219 117.753750085830674,39.017537388053185</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
